@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>ElektroTeknik — Panduan Praktis Kelistrikan &amp; Otomasi Industri</title>
+    <link>https://balenetizien.github.io</link>
+    <description>Blog teknikal mendalam tentang motor listrik, panel kontrol, VFD, pneumatik, PLC, dan otomasi industri dalam Bahasa Indonesia. Ditulis oleh Putra Adhiguna, Electrical &amp; Industrial Engineer.</description>
+    <language>id-ID</language>
+    <lastBuildDate>Thu, 16 Apr 2026 13:43:21 GMT</lastBuildDate>
+    <atom:link href="https://balenetizien.github.io/rss.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>jagoanpapih2@gmail.com (Putra Adhiguna)</managingEditor>
+    <webMaster>jagoanpapih2@gmail.com (Putra Adhiguna)</webMaster>
+    <image>
+      <url>https://balenetizien.github.io/favicon.svg</url>
+      <title>ElektroTeknik</title>
+      <link>https://balenetizien.github.io</link>
+    </image>
+    <copyright>Copyright 2026 Putra Adhiguna</copyright>
+  <item>
+    <title>Representasi Sinyal dan Sistem: Dasar Penting Teknik Elektro yang Wajib Dikuasai</title>
+    <link>https://balenetizien.github.io/artikel/representasi-sinyal-dan-sistem-dasar-teknik-elektro</link>
+    <guid isPermaLink="true">https://balenetizien.github.io/artikel/representasi-sinyal-dan-sistem-dasar-teknik-elektro</guid>
+    <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    <category>Dasar Teknik Elektro</category>
+    <description>Sinyal dan sistem adalah fondasi dari seluruh cabang teknik elektro modern. Dari komunikasi hingga kendali industri, pemahaman representasi sinyal—diskrit maupun kontinyu—adalah kunci memahami cara kerja perangkat elektronik secara mendalam.</description>
+    <author>jagoanpapih2@gmail.com (Putra Adhiguna)</author>
+  </item>
+  <item>
+    <title>Cara Membaca Wiring Diagram Panel Kontrol Industri: Panduan Lengkap</title>
+    <link>https://balenetizien.github.io/artikel/cara-membaca-wiring-diagram-panel-kontrol</link>
+    <guid isPermaLink="true">https://balenetizien.github.io/artikel/cara-membaca-wiring-diagram-panel-kontrol</guid>
+    <pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
+    <category>Rangkaian Listrik</category>
+    <description>Wiring diagram adalah bahasa universal dunia kelistrikan industri. Artikel ini mengajarkan cara membaca, menginterpretasikan, dan menggunakan diagram rangkaian panel kontrol secara sistematis.</description>
+    <author>jagoanpapih2@gmail.com (Putra Adhiguna)</author>
+  </item>
+  <item>
+    <title>Kontaktor Magnetik: Cara Kerja, Spesifikasi, dan Tips Pemilihan yang Tepat</title>
+    <link>https://balenetizien.github.io/artikel/kontaktor-magnetik-pemilihan-dan-cara-kerja</link>
+    <guid isPermaLink="true">https://balenetizien.github.io/artikel/kontaktor-magnetik-pemilihan-dan-cara-kerja</guid>
+    <pubDate>Sun, 12 Apr 2026 00:00:00 GMT</pubDate>
+    <category>Rangkaian Listrik</category>
+    <description>Kontaktor adalah jantung dari panel kontrol motor. Memilih kontaktor yang salah bisa berakibat fatal pada instalasi. Pelajari cara kerja, spesifikasi, dan tips pemilihan yang benar.</description>
+    <author>jagoanpapih2@gmail.com (Putra Adhiguna)</author>
+  </item>
+  <item>
+    <title>Pengantar Motor Induksi 3 Phase: Cara Kerja dan Aplikasinya di Industri</title>
+    <link>https://balenetizien.github.io/artikel/pengantar-motor-induksi-3-phase</link>
+    <guid isPermaLink="true">https://balenetizien.github.io/artikel/pengantar-motor-induksi-3-phase</guid>
+    <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+    <category>Motor 3 Phase</category>
+    <description>Motor induksi 3 phase adalah tulang punggung dunia industri modern. Artikel ini membahas prinsip kerja, konstruksi, dan penerapannya secara mendalam.</description>
+    <author>jagoanpapih2@gmail.com (Putra Adhiguna)</author>
+  </item>
+  <item>
+    <title>Thermal Overload Relay: Fungsi, Cara Setting, dan Troubleshooting di Lapangan</title>
+    <link>https://balenetizien.github.io/artikel/thermal-overload-relay-setting-dan-troubleshooting</link>
+    <guid isPermaLink="true">https://balenetizien.github.io/artikel/thermal-overload-relay-setting-dan-troubleshooting</guid>
+    <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+    <category>Rangkaian Listrik</category>
+    <description>Thermal Overload Relay adalah garda terdepan perlindungan motor dari beban lebih. Salah setting bisa membuat motor terbakar atau relay sering trip palsu. Pelajari cara yang benar.</description>
+    <author>jagoanpapih2@gmail.com (Putra Adhiguna)</author>
+  </item>
+  <item>
+    <title>Motor Servo vs Motor Stepper: Perbedaan Mendasar dan Panduan Pemilihan</title>
+    <link>https://balenetizien.github.io/artikel/motor-servo-vs-motor-stepper-perbedaan-dan-aplikasi</link>
+    <guid isPermaLink="true">https://balenetizien.github.io/artikel/motor-servo-vs-motor-stepper-perbedaan-dan-aplikasi</guid>
+    <pubDate>Mon, 06 Apr 2026 00:00:00 GMT</pubDate>
+    <category>Motor Industri</category>
+    <description>Motor servo dan stepper sering membuat bingung. Keduanya digunakan untuk kontrol posisi, tapi mekanisme dan karakteristiknya sangat berbeda. Artikel ini membantu Anda memilih yang tepat.</description>
+    <author>jagoanpapih2@gmail.com (Putra Adhiguna)</author>
+  </item>
+  <item>
+    <title>Panel MCC (Motor Control Center): Komponen, Konfigurasi, dan Standar Pemasangan</title>
+    <link>https://balenetizien.github.io/artikel/panel-mcc-motor-control-center-komponen-dan-konfigurasi</link>
+    <guid isPermaLink="true">https://balenetizien.github.io/artikel/panel-mcc-motor-control-center-komponen-dan-konfigurasi</guid>
+    <pubDate>Sat, 04 Apr 2026 00:00:00 GMT</pubDate>
+    <category>Motor Industri</category>
+    <description>MCC adalah pusat kontrol motor dalam skala industri. Memahami komponen, konfigurasi, dan standar pemasangannya adalah kompetensi wajib bagi engineer dan teknisi industri.</description>
+    <author>jagoanpapih2@gmail.com (Putra Adhiguna)</author>
+  </item>
+  <item>
+    <title>Sistem Grounding Instalasi Listrik Industri: Teori, Standar, dan Praktik</title>
+    <link>https://balenetizien.github.io/artikel/sistem-grounding-instalasi-listrik-industri</link>
+    <guid isPermaLink="true">https://balenetizien.github.io/artikel/sistem-grounding-instalasi-listrik-industri</guid>
+    <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
+    <category>Rangkaian Listrik</category>
+    <description>Grounding yang buruk adalah penyebab diam-diam di balik banyak kerusakan peralatan dan kecelakaan kerja. Pelajari cara merancang dan memverifikasi sistem grounding yang benar.</description>
+    <author>jagoanpapih2@gmail.com (Putra Adhiguna)</author>
+  </item>
+  <item>
+    <title>Star-Delta Starting: Mengapa, Bagaimana, dan Kapan Menggunakannya</title>
+    <link>https://balenetizien.github.io/artikel/starting-star-delta-penjelasan-lengkap</link>
+    <guid isPermaLink="true">https://balenetizien.github.io/artikel/starting-star-delta-penjelasan-lengkap</guid>
+    <pubDate>Sat, 28 Mar 2026 00:00:00 GMT</pubDate>
+    <category>Motor 3 Phase</category>
+    <description>Star-Delta adalah metode starting motor yang paling umum di industri. Artikel ini menjelaskan cara kerjanya, keunggulan, dan limitasinya secara praktikal.</description>
+    <author>jagoanpapih2@gmail.com (Putra Adhiguna)</author>
+  </item>
+  <item>
+    <title>Cara Setting VFD untuk Pompa Sentrifugal: Parameter Kritis dan Tips Optimasi</title>
+    <link>https://balenetizien.github.io/artikel/cara-setting-vfd-untuk-aplikasi-pompa-sentrifugal</link>
+    <guid isPermaLink="true">https://balenetizien.github.io/artikel/cara-setting-vfd-untuk-aplikasi-pompa-sentrifugal</guid>
+    <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
+    <category>Motor Industri</category>
+    <description>Pompa sentrifugal adalah aplikasi paling umum VFD. Setting yang benar bukan hanya soal motor jalan—tapi tentang efisiensi energi, umur pompa, dan keandalan sistem.</description>
+    <author>jagoanpapih2@gmail.com (Putra Adhiguna)</author>
+  </item>
+  <item>
+    <title>Motor 1 Phase: Kapasitor, Prinsip Kerja, dan Jenis-jenisnya</title>
+    <link>https://balenetizien.github.io/artikel/motor-1-phase-kapasitor-dan-prinsip-kerja</link>
+    <guid isPermaLink="true">https://balenetizien.github.io/artikel/motor-1-phase-kapasitor-dan-prinsip-kerja</guid>
+    <pubDate>Fri, 20 Mar 2026 00:00:00 GMT</pubDate>
+    <category>Motor 1 Phase</category>
+    <description>Motor satu phase banyak digunakan di rumah tangga dan industri ringan. Tapi tahukah Anda mengapa motor ini butuh kapasitor? Dan apa bedanya CSIR, CSCR, dan PSC?</description>
+    <author>jagoanpapih2@gmail.com (Putra Adhiguna)</author>
+  </item>
+  <item>
+    <title>Cara Membaca Nameplate Motor Listrik: Setiap Angka Ada Artinya</title>
+    <link>https://balenetizien.github.io/artikel/membaca-nameplate-motor-listrik</link>
+    <guid isPermaLink="true">https://balenetizien.github.io/artikel/membaca-nameplate-motor-listrik</guid>
+    <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
+    <category>Motor Industri</category>
+    <description>Nameplate motor adalah identitas lengkap sebuah motor listrik. Memahami setiap parameter di dalamnya adalah kunci memilih motor yang tepat dan mengoperasikannya dengan benar.</description>
+    <author>jagoanpapih2@gmail.com (Putra Adhiguna)</author>
+  </item>
+  <item>
+    <title>Dasar Rangkaian Kontrol Motor Industri: DOL, Interlock, dan Self-Holding</title>
+    <link>https://balenetizien.github.io/artikel/dasar-rangkaian-kontrol-motor-industri</link>
+    <guid isPermaLink="true">https://balenetizien.github.io/artikel/dasar-rangkaian-kontrol-motor-industri</guid>
+    <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
+    <category>Rangkaian Listrik</category>
+    <description>Setiap panel kontrol motor, dari yang paling sederhana hingga paling kompleks, dibangun dari blok-blok rangkaian dasar yang sama. Artikel ini membahas konsep-konsep fundamental tersebut.</description>
+    <author>jagoanpapih2@gmail.com (Putra Adhiguna)</author>
+  </item>
+  <item>
+    <title>Sistem Pneumatik Industri: Komponen, Cara Kerja, dan Troubleshooting</title>
+    <link>https://balenetizien.github.io/artikel/sistem-pneumatik-dasar-komponen-dan-cara-kerja</link>
+    <guid isPermaLink="true">https://balenetizien.github.io/artikel/sistem-pneumatik-dasar-komponen-dan-cara-kerja</guid>
+    <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+    <category>Pneumatik</category>
+    <description>Pneumatik adalah teknologi yang mengandalkan udara bertekanan untuk menggerakkan aktuator. Dari pabrik otomotif hingga industri makanan, pneumatik ada di mana-mana.</description>
+    <author>jagoanpapih2@gmail.com (Putra Adhiguna)</author>
+  </item>
+  <item>
+    <title>VFD (Variable Frequency Drive): Panduan Lengkap untuk Teknisi Lapangan</title>
+    <link>https://balenetizien.github.io/artikel/vfd-variable-frequency-drive-panduan-teknisi</link>
+    <guid isPermaLink="true">https://balenetizien.github.io/artikel/vfd-variable-frequency-drive-panduan-teknisi</guid>
+    <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
+    <category>Motor Industri</category>
+    <description>VFD adalah perangkat yang mengubah cara kita mengontrol motor listrik. Memahaminya secara mendalam—dari prinsip kerja hingga parameter setting—adalah investasi skill yang sangat berharga.</description>
+    <author>jagoanpapih2@gmail.com (Putra Adhiguna)</author>
+  </item>
+  <item>
+    <title>Sistem Proteksi Motor Listrik: Koordinasi Relay dan Circuit Breaker</title>
+    <link>https://balenetizien.github.io/artikel/proteksi-motor-listrik-relay-dan-circuit-breaker</link>
+    <guid isPermaLink="true">https://balenetizien.github.io/artikel/proteksi-motor-listrik-relay-dan-circuit-breaker</guid>
+    <pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
+    <category>Motor Industri</category>
+    <description>Proteksi motor yang baik adalah investasi—bukan biaya. Memahami cara mengkoordinasikan berbagai lapisan proteksi adalah kunci instalasi yang andal dan aman.</description>
+    <author>jagoanpapih2@gmail.com (Putra Adhiguna)</author>
+  </item>
+  <item>
+    <title>Troubleshooting Motor Tidak Mau Jalan: Metodologi Sistematis di Lapangan</title>
+    <link>https://balenetizien.github.io/artikel/troubleshooting-motor-tidak-mau-jalan</link>
+    <guid isPermaLink="true">https://balenetizien.github.io/artikel/troubleshooting-motor-tidak-mau-jalan</guid>
+    <pubDate>Sun, 15 Feb 2026 00:00:00 GMT</pubDate>
+    <category>Motor Industri</category>
+    <description>Motor tidak mau jalan adalah salah satu panggilan paling umum di lapangan. Artikel ini memberikan metodologi troubleshooting yang sistematis—bukan coba-coba.</description>
+    <author>jagoanpapih2@gmail.com (Putra Adhiguna)</author>
+  </item>
+  <item>
+    <title>Hukum Ohm dan Kirchhoff: Aplikasi Praktis yang Sering Diabaikan</title>
+    <link>https://balenetizien.github.io/artikel/hukum-ohm-dan-kirchhoff-aplikasi-praktis</link>
+    <guid isPermaLink="true">https://balenetizien.github.io/artikel/hukum-ohm-dan-kirchhoff-aplikasi-praktis</guid>
+    <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
+    <category>Rangkaian Listrik</category>
+    <description>Dua hukum dasar ini adalah fondasi dari seluruh analisa kelistrikan. Tapi apakah Anda benar-benar menggunakannya saat troubleshooting di lapangan?</description>
+    <author>jagoanpapih2@gmail.com (Putra Adhiguna)</author>
+  </item>
+  <item>
+    <title>Pengenalan PLC Siemens S7-1200: Dari Konsep hingga Program Pertama</title>
+    <link>https://balenetizien.github.io/artikel/pengenalan-plc-siemens-s7-1200</link>
+    <guid isPermaLink="true">https://balenetizien.github.io/artikel/pengenalan-plc-siemens-s7-1200</guid>
+    <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
+    <category>Motor Industri</category>
+    <description>PLC Siemens S7-1200 adalah salah satu kontroler paling populer di industri. Artikel ini memandu Anda dari nol hingga membuat program kontrol motor pertama.</description>
+    <author>jagoanpapih2@gmail.com (Putra Adhiguna)</author>
+  </item>
+  </channel>
+</rss>
