@@ -48,6 +48,12 @@ author:
   bio              : "Lulusan Teknik Informatika Universitas Bughi Dharma, 26 tahun. Berbagi tutorial programming dasar — Python, PHP, JavaScript, CSS — untuk pemula Indonesia."
   location         : "Indonesia"
   links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://balenetizien.github.io"
+    - label: "Bale Tech Docs"
+      icon: "fas fa-fw fa-link"
+      url: "https://balenetizien.github.io/bale-tech-docs/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/balenetizien"
