@@ -6,3 +6,5 @@ main:
     url: /categories/
   - title: "Posts by Year"
     url: /year-archive/
+  - title: "📚 Bale Tech Docs"
+    url: https://balenetizien.github.io/bale-tech-docs/
