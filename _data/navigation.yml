@@ -1,0 +1,16 @@
+# main links
+main:
+  - title: "Artikel"
+    url: /
+  - title: "Python"
+    url: /categories/python/
+  - title: "PHP"
+    url: /categories/php/
+  - title: "JavaScript"
+    url: /categories/javascript/
+  - title: "CSS"
+    url: /categories/css/
+  - title: "Tags"
+    url: /tags/
+  - title: "Tentang"
+    url: /about/

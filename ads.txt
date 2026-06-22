@@ -1,1 +1,16 @@
-google.com, pub-9806599334870054, DIRECT, f08c47fec0942fa0
+# ============================================================
+# FILE: ads.txt
+# ============================================================
+# File ini diperlukan oleh Google AdSense untuk verifikasi
+# bahwa kamu adalah pemilik sah dari publisher ID ini.
+#
+# CARA MENGISI:
+# Setelah akun AdSense kamu disetujui, uncomment baris di bawah
+# dan ganti ca-pub-XXXXXXXXXXXXXXXX dengan Publisher ID kamu.
+# Publisher ID bisa dilihat di: ads.google.com > Account info
+#
+# Format yang benar:
+# google.com, ca-pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+# ============================================================
+
+# google.com, ca-pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0

@@ -1,0 +1,162 @@
+remote_theme             : "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin    : "dark"
+
+# Site Settings
+locale                   : "id-ID"
+title                    : "Bale Tech"
+title_separator          : "-"
+name                     : "Putra Ade Novit"
+description              : "Tutorial programming dasar: Python, PHP, JavaScript, CSS untuk pemula Indonesia"
+url                      : "https://balenetizien.github.io"
+baseurl                  : ""
+repository               : "balenetizien/balenetizien.github.io"
+teaser                   :
+words_per_minute         : 200
+comments:
+  provider               : "disqus"
+  disqus:
+    shortname            : balenetizien
+atom_feed:
+  path                   :
+search                   : true
+search_full_content      :
+
+# SEO Related
+# Ganti setelah daftar Google Search Console
+google_site_verification : # GANTI_KODE_GOOGLE_SEARCH_CONSOLE
+bing_site_verification   : # GANTI_KODE_BING_WEBMASTER
+
+# Social Sharing
+social:
+  type                   : Person
+  name                   : "Putra Ade Novit"
+  links:
+    - "https://github.com/balenetizien"
+
+# Analytics
+analytics:
+  provider               : "google"
+  google:
+    # Ganti dengan Analytics ID setelah daftar di analytics.google.com
+    tracking_id          : # GANTI_UA-XXXXXXXXX-X_ATAU_G-XXXXXXXXXX
+    anonymize_ip         :
+
+# Site Author
+author:
+  name             : "Putra Ade Novit"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "Lulusan Teknik Informatika Universitas Bughi Dharma, 26 tahun. Berbagi tutorial programming dasar — Python, PHP, JavaScript, CSS — untuk pemula Indonesia."
+  location         : "Indonesia"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/balenetizien"
+
+# Site Footer
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/balenetizien"
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - Capfile
+  - CHANGELOG
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - Rakefile
+  - README
+  - tmp
+keep_files:
+  - .git
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+permalink: /:categories/:title/
+paginate: 5
+paginate_path: /page:num/
+timezone: "Asia/Jakarta"
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true
+      related: true
+      comments: true
+      toc: true
+      toc_sticky: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
