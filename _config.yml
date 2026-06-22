@@ -3,7 +3,7 @@ minimal_mistakes_skin    : "dark"
 
 # Site Settings
 locale                   : "id-ID"
-title                    : "Bale Tech"
+title                    : "Bale Tech - Inspirasi Bagi NuBi"
 title_separator          : "-"
 name                     : "Putra Ade Novit"
 description              : "Tutorial programming dasar: Python, PHP, JavaScript, CSS untuk pemula Indonesia"
@@ -44,7 +44,7 @@ analytics:
 # Site Author
 author:
   name             : "Putra Ade Novit"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.png"
   bio              : "Lulusan Teknik Informatika Universitas Bughi Dharma, 26 tahun. Berbagi tutorial programming dasar — Python, PHP, JavaScript, CSS — untuk pemula Indonesia."
   location         : "Indonesia"
   links:
