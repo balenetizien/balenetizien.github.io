@@ -2,9 +2,8 @@
 title: "7 Cara Merawat Mobil Matic agar Transmisi Awet dan Tidak Rusak"
 excerpt: "Transmisi matic rusak bisa menguras kantong hingga jutaan rupiah. Ikuti 7 cara merawat mobil matic ini agar transmisi awet dan tahan lama."
 header:
-  image: "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&w=1200&q=80"
-  teaser: "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&w=600&q=80"
-  caption: "Perawatan transmisi matic yang benar"
+  teaser: "https://kmmatic.com/wp-content/uploads/2024/09/KM-MATIC-BENGKEL-MOBIL-MATIC-5.webp"
+  caption: "Servis transmisi matic di bengkel spesialis"
 categories:
   - Tips Otomotif
   - Perawatan Mobil
@@ -23,7 +22,7 @@ Mobil bertransmisi otomatis (matic) kini menjadi pilihan mayoritas pengemudi Ind
 
 Inilah **7 cara merawat mobil matic** yang wajib kamu ketahui agar transmisi tetap awet bertahun-tahun.
 
-![Servis transmisi matic](https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&w=800&q=80)
+![Bengkel spesialis transmisi matic - servis dan perawatan](https://kmmatic.com/wp-content/uploads/2024/09/KM-MATIC-BENGKEL-MOBIL-MATIC-5.webp)
 
 ## 1. Ganti Oli Transmisi Secara Rutin
 
@@ -43,7 +42,7 @@ Ini adalah perawatan paling penting dan paling sering diabaikan. Oli transmisi m
 
 ## 2. Hindari Posisi D Saat Berhenti Lama
 
-Banyak pengemudi membiarkan tuas transmisi di posisi **D** saat berhenti lama (misalnya di lampu merah atau kemacetan panjang) sambil menginjak rem. Kebiasaan ini bisa mempercepat keausan kopling dalam transmisi.
+Banyak pengemudi membiarkan tuas transmisi di posisi **D** saat berhenti lama sambil menginjak rem. Kebiasaan ini bisa mempercepat keausan kopling dalam transmisi.
 
 **Yang benar:**
 - Berhenti sebentar (< 1 menit): Tetap di D, injak rem
@@ -56,8 +55,6 @@ Sebelum berkendara, panaskan mesin selama **30–60 detik**. Ini memungkinkan ol
 
 Jangan langsung memacu kendaraan dengan RPM tinggi sesaat setelah mesin dinyalakan — biarkan mesin mencapai suhu kerja normal terlebih dahulu.
 
-![Memulai mobil matic dengan benar](https://images.unsplash.com/photo-1449426468159-d96dbf08f19f?auto=format&fit=crop&w=800&q=80)
-
 ## 4. Pindahkan Gigi dengan Benar
 
 Kesalahan yang sering dilakukan: memindahkan tuas dari **R ke D** atau sebaliknya saat mobil masih bergerak. Ini sangat merusak komponen transmisi!
@@ -67,21 +64,15 @@ Kesalahan yang sering dilakukan: memindahkan tuas dari **R ke D** atau sebalikny
 2. Tunggu 1–2 detik
 3. Baru pindahkan posisi tuas
 
-Untuk mobil dengan mode manual (tiptronic/paddle shift), hindari berpindah gigi terlalu cepat atau memaksa RPM terlalu tinggi.
-
 ## 5. Hindari "Kickdown" Berlebihan
 
-**Kickdown** adalah kondisi saat kamu menginjak gas habis-habisan agar transmisi berpindah ke gigi rendah untuk akselerasi maksimal. Meskipun fitur ini memang dirancang demikian, terlalu sering melakukan kickdown dapat mempercepat keausan komponen transmisi.
+**Kickdown** adalah kondisi saat kamu menginjak gas habis-habisan agar transmisi berpindah ke gigi rendah untuk akselerasi maksimal. Terlalu sering melakukan kickdown dapat mempercepat keausan komponen transmisi.
 
 Gunakan kickdown hanya saat benar-benar diperlukan, seperti saat menyalip di jalan tol.
 
 ## 6. Gunakan Rem Tangan Saat Parkir di Tanjakan
 
-Saat parkir di tanjakan, banyak pemilik hanya mengandalkan posisi **P** tanpa mengaktifkan rem tangan. Padahal:
-
-- Posisi P bekerja dengan menghubungkan *pawl* (pin) ke *parking gear*
-- Di tanjakan curam, seluruh beban kendaraan bertumpu pada pin kecil ini
-- Lama kelamaan pin bisa patah dan transmisi rusak
+Saat parkir di tanjakan, jangan hanya mengandalkan posisi **P** tanpa mengaktifkan rem tangan. Di tanjakan curam, seluruh beban kendaraan bertumpu pada pin kecil di transmisi — lama kelamaan pin bisa patah.
 
 **Urutan parkir di tanjakan yang benar:**
 1. Injak rem → pindahkan ke P
@@ -101,8 +92,6 @@ Jangan melewatkan jadwal servis berkala. Teknisi resmi dapat mendeteksi masalah 
 
 ## Tanda-tanda Transmisi Matic Bermasalah
 
-Kenali tanda-tanda awal agar tidak terlambat:
-
 | Gejala | Kemungkinan Penyebab |
 |--------|---------------------|
 | Slip saat akselerasi | Oli habis / kopling aus |
@@ -116,7 +105,5 @@ Jika menemukan salah satu gejala di atas, segera bawa ke bengkel — jangan ditu
 ## Kesimpulan
 
 Merawat transmisi matic tidak sulit, cukup konsisten dengan tujuh langkah di atas. Investasi perawatan rutin jauh lebih murah dibandingkan biaya perbaikan atau penggantian transmisi.
-
-Untuk pertanyaan lebih lanjut, tinggalkan komentar di bawah!
 
 *Terakhir diperbarui: Juni 2026*
