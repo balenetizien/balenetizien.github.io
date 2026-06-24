@@ -2,9 +2,8 @@
 title: "Harga Toyota Raize 2026 Semua Varian dan Spesifikasi Lengkap"
 excerpt: "Berencana beli Toyota Raize 2026? Cek harga OTR terbaru semua varian, spesifikasi mesin, dan perbandingan tipe di sini sebelum memutuskan."
 header:
-  image: "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=1200&q=80"
-  teaser: "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=600&q=80"
-  caption: "Toyota Raize - SUV Compact Terlaris Indonesia"
+  teaser: "https://paultan.org/image/2026/01/2026-Toyota-Raize-Indonesia-1-630x394.jpg"
+  caption: "Toyota Raize 2026 Indonesia"
 categories:
   - Mobil
   - Harga Mobil
@@ -22,7 +21,7 @@ last_modified_at: 2026-06-24
 
 Toyota Raize terus membuktikan dirinya sebagai salah satu SUV compact paling laris di Indonesia. Memasuki tahun 2026, Toyota memberikan sejumlah pembaruan yang membuat Raize makin kompetitif. Di artikel ini, kami merangkum **harga Toyota Raize 2026 terbaru** lengkap dengan spesifikasi semua varian.
 
-![Toyota Raize 2026 tampak depan](https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=800&q=80)
+![Toyota Raize 2026 tampak depan - SUV compact terlaris Indonesia](https://paultan.org/image/2026/01/2026-Toyota-Raize-Indonesia-1-630x394.jpg)
 
 ## Harga Toyota Raize 2026 Semua Varian
 
@@ -76,7 +75,7 @@ Toyota Raize 2026 hadir dengan dua pilihan mesin:
 - Ground clearance: 185 mm
 - Velg alloy 17 inci (tipe GR Sport)
 
-![Interior Toyota Raize 2026](https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=800&q=80)
+![Toyota Raize 2026 tampak samping](https://i1.wp.com/paultan.org/image/2026/01/2026-Toyota-Raize-Indonesia-2.jpg)
 
 ## Perbandingan Varian: Mana yang Terbaik?
 
@@ -117,7 +116,5 @@ Toyota Raize dikenal dengan biaya perawatan yang terjangkau:
 ## Kesimpulan
 
 Toyota Raize 2026 tetap menjadi pilihan SUV compact terbaik di kelasnya. Dengan harga mulai **Rp 220 juta**, fitur Toyota Safety Sense, dan efisiensi bahan bakar yang baik, Raize sangat layak dipertimbangkan.
-
-Untuk informasi lebih detail, kunjungi dealer Toyota terdekat atau hubungi Toyota Indonesia di [toyota.astra.co.id](https://toyota.astra.co.id).
 
 *Terakhir diperbarui: Juni 2026*
