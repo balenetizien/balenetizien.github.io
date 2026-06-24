@@ -2,8 +2,8 @@
 title: "10 Tips Membeli Mobil Bekas Berkualitas agar Tidak Tertipu"
 excerpt: "Mau beli mobil bekas tapi takut tertipu? Ikuti 10 tips membeli mobil bekas yang aman dan berkualitas ini sebelum transaksi."
 header:
-  teaser: "https://img4.icarcdn.com/84189/main-s_indonesia-motor-jual-mobil-bekas-merek-jepang-berkualitas_cover_2015_indonesia-motor-showroom-mobil-bekas.jpg"
-  caption: "Showroom mobil bekas berkualitas di Indonesia"
+  teaser: "https://mobee-website-articles.s3.ap-southeast-1.amazonaws.com/articles/images/article-2024-12-07_10-22-34-apa_yg_harus_diperhatikan_membeli_mobil_bekas.png"
+  caption: "Tips membeli mobil bekas yang aman"
 categories:
   - Tips Otomotif
   - Mobil Bekas
@@ -22,7 +22,7 @@ Membeli mobil bekas bisa menjadi keputusan finansial yang cerdas — harga lebih
 
 Artikel ini membahas **10 tips membeli mobil bekas** yang wajib kamu ikuti agar tidak menyesal.
 
-![Showroom mobil bekas berkualitas di Indonesia](https://img4.icarcdn.com/84189/main-s_indonesia-motor-jual-mobil-bekas-merek-jepang-berkualitas_cover_2015_indonesia-motor-showroom-mobil-bekas.jpg)
+![Panduan membeli mobil bekas yang aman dan berkualitas](https://mobee-website-articles.s3.ap-southeast-1.amazonaws.com/articles/images/article-2024-12-07_10-22-34-apa_yg_harus_diperhatikan_membeli_mobil_bekas.png)
 
 ## 1. Tentukan Budget dan Kebutuhan Terlebih Dahulu
 
@@ -92,7 +92,9 @@ Minta penjual menunjukkan buku servis atau riwayat servis. Mobil yang servisnya 
 
 ## 8. Bawa ke Bengkel Independen untuk Inspeksi
 
-Bawa ke bengkel terpercaya yang tidak ada hubungannya dengan penjual untuk inspeksi menyeluruh. Biaya inspeksi berkisar **Rp 200.000–500.000** — sangat worth it.
+Bawa ke bengkel terpercaya yang tidak ada hubungannya dengan penjual untuk inspeksi menyeluruh. Biaya inspeksi berkisar **Rp 200.000–500.000** — sangat worth it dibanding membeli mobil bermasalah.
+
+![Proses jual beli mobil bekas Indonesia](https://blogspr.mocil.id/wp-content/uploads/2024/11/jual-beli-mobil-bekas.jpg)
 
 ## 9. Negosiasi Harga dengan Bijak
 
@@ -100,11 +102,13 @@ Bawa ke bengkel terpercaya yang tidak ada hubungannya dengan penjual untuk inspe
 - **Ada masalah minor**: Tawar 10–15% setelah memperhitungkan biaya perbaikan
 - **Masalah serius**: Pertimbangkan kembali, atau minta penjual perbaiki dulu
 
+Jangan negosiasi langsung setelah test drive — ambil waktu untuk mempertimbangkan.
+
 ## 10. Proses Balik Nama Segera
 
 1. Siapkan KTP, KK, BPKB asli + fotokopi
 2. Datangi Samsat terdekat
-3. Bayar BBNKB sesuai ketentuan daerah
+3. Bayar BBNKB (Bea Balik Nama Kendaraan Bermotor) sesuai ketentuan daerah
 4. Proses biasanya 1–2 minggu
 
 Menunda balik nama berisiko jika terjadi masalah hukum dengan kendaraan tersebut.
@@ -112,5 +116,7 @@ Menunda balik nama berisiko jika terjadi masalah hukum dengan kendaraan tersebut
 ## Kesimpulan
 
 Membeli mobil bekas tidak harus berisiko jika kamu melakukan due diligence dengan benar. Ikuti 10 langkah di atas, dan kamu akan jauh lebih terlindungi dari penipuan.
+
+Ada pengalaman beli mobil bekas yang ingin dibagikan? Tulis di kolom komentar!
 
 *Terakhir diperbarui: Juni 2026*
