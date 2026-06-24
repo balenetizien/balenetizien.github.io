@@ -22,7 +22,7 @@ search                   : true
 search_full_content      :
 
 # SEO Related
-google_site_verification : # GANTI_KODE_GOOGLE_SEARCH_CONSOLE
+google_site_verification : "Fu1wx3fp8ImNO-JSVSdNXlaYvM2H8CYEBHpk29vTvBE"
 bing_site_verification   : # GANTI_KODE_BING_WEBMASTER
 
 # Social Sharing
@@ -95,7 +95,9 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown
 highlighter: rouge
 lsi: false
-excerpt_separator: "\n\n"
+excerpt_separator: "
+
+"
 incremental: false
 
 kramdown:
