@@ -306,6 +306,6 @@ Untuk mayoritas pengguna di Indonesia yang berkendara di kota, Beat adalah pilih
 
 *Baca juga:*
 - [Honda Vario 160 2026 — Motor Matic Premium Terbaik?](/motor/harga-motor/harga-honda-vario-160-2026-spesifikasi-terbaru/)
-- [Cara Merawat Motor Matic agar Awet](/tips-otomotif/perawatan-motor/jadwal-servis-motor-matic/)
+- [Cara Merawat Mobil Matic agar Transmisi Awet](/tips-otomotif/perawatan-mobil/cara-merawat-mobil-matic-agar-transmisi-awet/)
 
 *Terakhir diperbarui: Juni 2026*
