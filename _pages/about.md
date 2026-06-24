@@ -1,38 +1,39 @@
 ---
-title: "Tentang Bale Tech"
+title: "Tentang Bale Otomotif"
 permalink: /about/
 toc: true
 ---
 
-## Selamat Datang di Bale Tech
+## Selamat Datang di Bale Otomotif
 
-Halo! Selamat datang di **Bale Tech** — tempat belajar programming dasar dengan cara yang mudah dipahami, khususnya untuk pemula Indonesia.
+Halo! Selamat datang di **Bale Otomotif** — tempat berbagi informasi, tips, dan review seputar dunia otomotif mobil dan motor untuk semua kalangan di Indonesia.
 
-Di sini kamu akan menemukan tutorial praktis seputar **Python, PHP, JavaScript, dan CSS** yang ditulis dengan bahasa yang santai tapi tetap informatif.
+Di sini kamu akan menemukan konten praktis seputar **perawatan kendaraan, review mobil & motor terbaru, tips berkendara aman**, dan banyak lagi — ditulis dengan bahasa yang santai tapi tetap informatif.
 
 ## Tentang Saya
 
-Nama saya **Putra Ade Novit**, seorang programmer muda berusia 26 tahun, lulusan **Teknik Informatika Universitas Bughi Dharma**.
+Nama saya **Putra Ade Novit**, seorang pecinta otomotif dari Indonesia yang sudah lama berkecimpung di dunia kendaraan bermotor.
 
-Sejak kuliah, saya sudah jatuh cinta dengan dunia pemrograman — dari nulis script Python pertama yang penuh error, sampai akhirnya bisa bikin web sendiri dengan PHP dan JavaScript. Perjalanan itu yang membuat saya sadar betapa pentingnya memiliki sumber belajar yang *mudah dimengerti* dalam Bahasa Indonesia.
+Sejak remaja, saya sudah jatuh cinta dengan dunia otomotif — dari ngutak-atik motor pertama, sampai akhirnya bisa memahami seluk-beluk mesin mobil sendiri. Pengalaman itulah yang mendorong saya untuk berbagi pengetahuan kepada sesama pecinta kendaraan di Indonesia.
 
-Itulah kenapa Bale Tech lahir.
+Itulah kenapa **Bale Otomotif** lahir.
 
 ## Apa yang Akan Kamu Temukan di Sini
 
-- **Tutorial Python** — dari sintaks dasar, tipe data, loop, hingga project sederhana
-- **Tutorial PHP** — dasar-dasar PHP untuk membangun website dinamis
-- **JavaScript** — belajar interaktivitas web dari nol
-- **CSS** — mendesain halaman web yang rapi dan menarik
-- **Tips & Trik** — shortcut, best practice, dan hal-hal berguna yang sering terlewatkan di tutorial lain
+- **Review Mobil** — ulasan kendaraan terbaru dari berbagai merek populer di Indonesia
+- **Review Motor** — review motor sport, matic, bebek, dan adventure terkini
+- **Tips Perawatan** — cara merawat kendaraan agar awet dan tetap prima
+- **Tips Berkendara** — panduan berkendara aman di berbagai kondisi jalan
+- **Berita Otomotif** — update terbaru dari industri otomotif Indonesia dan dunia
+- **Modifikasi** — inspirasi dan panduan modifikasi kendaraan yang legal dan aman
 
-## Filosofi Belajar Saya
+## Filosofi Saya
 
-> *"Semua programmer hebat pernah bingung di tahap yang sama dengan kamu sekarang."*
+> *"Kendaraan yang terawat bukan hanya soal penampilan, tapi soal keselamatan kita dan orang lain di jalan."*
 
-Saya percaya bahwa setiap orang bisa belajar coding, asalkan materinya disampaikan dengan cara yang tepat — tidak terlalu teknis, tidak terlalu abstrak, dan selalu disertai contoh nyata.
+Saya percaya bahwa setiap orang berhak mendapat informasi otomotif yang akurat dan mudah dipahami — tidak perlu jadi mekanik profesional untuk bisa merawat kendaraan sendiri.
 
-Di Bale Tech, setiap tutorial ditulis berdasarkan pengalaman nyata: kesalahan yang pernah saya buat, masalah yang pernah saya hadapi, dan solusi yang benar-benar berhasil.
+Di Bale Otomotif, setiap konten ditulis berdasarkan pengalaman nyata dan riset mendalam agar kamu bisa mengambil keputusan terbaik untuk kendaraanmu.
 
 ## Kontak & Kolaborasi
 
@@ -41,4 +42,4 @@ Ada pertanyaan, saran, atau ingin kolaborasi?
 - **GitHub**: [github.com/balenetizien](https://github.com/balenetizien)
 - Atau tinggalkan komentar di bawah artikel yang kamu baca!
 
-Terima kasih sudah mampir. Semangat belajarnya! 🚀
+Terima kasih sudah mampir. Selamat berkendara dengan aman! 🚗🏍️
