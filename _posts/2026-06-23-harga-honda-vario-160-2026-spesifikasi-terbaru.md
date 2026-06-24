@@ -2,9 +2,8 @@
 title: "Harga Honda Vario 160 2026 Semua Tipe dan Spesifikasi Terbaru"
 excerpt: "Honda Vario 160 2026 hadir dengan pembaruan menarik. Cek harga OTR terbaru, spesifikasi lengkap, dan pilihan warna di sini."
 header:
-  image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=1200&q=80"
-  teaser: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=600&q=80"
-  caption: "Honda Vario 160 - Motor Matic Premium Terlaris"
+  teaser: "https://imgcdn.oto.com/large/gallery/exterior/73/2569/honda-vario-160-slant-rear-view-full-image-213626.jpg"
+  caption: "Honda Vario 160 2026"
 categories:
   - Motor
   - Harga Motor
@@ -22,7 +21,7 @@ last_modified_at: 2026-06-24
 
 Honda Vario 160 masih menjadi raja motor matic premium di Indonesia. Dengan mesin 157,9 cc berteknologi eSP+ dan desain yang modern, Vario 160 terus menjadi pilihan utama commuter Indonesia. Berikut informasi lengkap **harga Honda Vario 160 2026** beserta spesifikasinya.
 
-![Honda Vario 160 2026](https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=800&q=80)
+![Honda Vario 160 2026 tampak belakang samping](https://imgcdn.oto.com/large/gallery/exterior/73/2569/honda-vario-160-slant-rear-view-full-image-213626.jpg)
 
 ## Harga Honda Vario 160 2026
 
@@ -69,8 +68,6 @@ Honda Vario 160 2026 hadir dalam beberapa pilihan warna menarik:
 - **Smart White** — Putih bersih timeless
 - **Athletic Blue Metallic** — Biru sporty premium
 - **Gorgeous Green Metallic** — Hijau trendi
-
-![Honda Vario 160 pilihan warna](https://images.unsplash.com/photo-1449426468159-d96dbf08f19f?auto=format&fit=crop&w=800&q=80)
 
 ## Fitur Unggulan Honda Vario 160
 
