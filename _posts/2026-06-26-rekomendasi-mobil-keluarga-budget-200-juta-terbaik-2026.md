@@ -17,8 +17,8 @@ tags:
   - Suzuki Ertiga
 toc: true
 toc_sticky: true
-date: 2026-06-26
-last_modified_at: 2026-06-26
+date: 2026-06-25
+last_modified_at: 2026-06-25
 ---
 
 Mencari mobil keluarga itu rasanya seperti disuruh memilih antara nasi padang dan soto — dua-duanya enak, dua-duanya punya penggemar fanatik, dan pada akhirnya pilihan kamu sangat dipengaruhi oleh selera dan kebutuhan yang tidak bisa digeneralisasi.
