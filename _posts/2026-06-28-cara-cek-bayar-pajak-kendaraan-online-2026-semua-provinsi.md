@@ -17,8 +17,8 @@ tags:
   - Samsat digital
 toc: true
 toc_sticky: true
-date: 2026-06-28
-last_modified_at: 2026-06-28
+date: 2026-06-25
+last_modified_at: 2026-06-25
 ---
 
 Siapa yang suka antri di Samsat? Saya rasa tidak ada. Datang pagi, ambil nomor, duduk nunggu dua jam, dipanggil, ternyata ada dokumen kurang, balik lagi besok. Pengalaman klasik yang sudah dialami hampir semua pemilik kendaraan di Indonesia.
