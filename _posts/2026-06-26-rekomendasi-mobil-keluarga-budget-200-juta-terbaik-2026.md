@@ -3,7 +3,6 @@ title: "5 Rekomendasi Mobil Keluarga Terbaik Budget Rp 200 Juta di 2026 — Juju
 excerpt: "Punya budget Rp 200 juta dan mau beli mobil keluarga? Bukan soal iklan, ini rekomendasi jujur berdasarkan biaya nyata, kapasitas, keandalan jangka panjang, dan after-sales — dari MPV hingga SUV yang layak masuk list kamu."
 header:
   teaser: "https://www.carmudi.co.id/journal/wp-content/uploads/2024/06/Kijang-Innova.jpg"
-  image: "https://imgcdn.oto.com/large/gallery/exterior/38/1654/toyota-avanza-front-angle-low-view-844132.jpg"
   caption: "Pilihan mobil keluarga terbaik 2026 budget 200 juta"
 categories:
   - mobil
@@ -49,8 +48,7 @@ Tidak ada mobil yang juara di semua kategori ini sekaligus. Yang ada adalah mobi
 ## #1 — Toyota Avanza 2026 / Veloz
 
 
-![Toyota Avanza 2026 mobil keluarga terbaik Indonesia](https://imgcdn.oto.com/large/gallery/exterior/38/1654/toyota-avanza-front-angle-low-view-844132.jpg)
-*Toyota Avanza 2026 — tetap jadi pilihan utama keluarga Indonesia dengan jaringan aftersales terluas.*
+{% include figure image_path="https://imgcdn.oto.com/large/gallery/exterior/38/1654/toyota-avanza-front-angle-low-view-844132.jpg" alt="Toyota Avanza 2026 mobil keluarga terbaik Indonesia" caption="Toyota Avanza 2026 — tetap jadi pilihan utama keluarga Indonesia dengan jaringan aftersales terluas." %}
 
 **Harga**: Rp 175–222 juta (Avanza G hingga Veloz Q CVT)
 
@@ -80,8 +78,7 @@ Kalau keluarga kamu sering penuh 7 orang dewasa dan perjalanannya jauh, pertimba
 ## #2 — Mitsubishi Xpander 2026
 
 
-![Mitsubishi Xpander 2026 Indonesia](https://cdn-jpr.jawapos.com/images/27/2026/05/06/mitsubishi-xpander-hybrid-2026-xuFSt.webp)
-*Mitsubishi Xpander 2026 — baris ketiga yang lebih lapang dan ground clearance tertinggi di kelasnya.*
+{% include figure image_path="https://cdn-jpr.jawapos.com/images/27/2026/05/06/mitsubishi-xpander-hybrid-2026-xuFSt.webp" alt="Mitsubishi Xpander 2026 Indonesia" caption="Mitsubishi Xpander 2026 — baris ketiga yang lebih lapang dan ground clearance tertinggi di kelasnya." %}
 
 **Harga**: Rp 195–248 juta (Xpander GLS hingga Xpander Cross)
 
