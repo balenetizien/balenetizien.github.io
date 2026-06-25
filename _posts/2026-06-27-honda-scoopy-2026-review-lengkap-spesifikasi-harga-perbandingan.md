@@ -2,7 +2,7 @@
 title: "Honda Scoopy 2026 Review Jujur — Spesifikasi, Harga, Kelebihan dan Kekurangan yang Jarang Ditulis"
 excerpt: "Honda Scoopy 2026 hadir dengan desain retro yang makin matang. Tapi apakah motor paling modis di kelasnya ini juga paling fungsional? Review lengkap dan jujur dari sisi performa, kenyamanan, biaya perawatan, dan perbandingan dengan kompetitornya."
 header:
-  teaser: "https://cdn.motor1.com/images/mgl/nAorW/s3/honda-scoopy-2023.jpg"
+  teaser: "https://radarselatan.disway.id/upload/2e12acbe31ad30542091a55fb8481c83.jpg"
   caption: "Honda Scoopy 2026 - Retro chic atau sekadar tampilan?"
 categories:
   - motor
