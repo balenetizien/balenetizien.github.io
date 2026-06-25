@@ -2,7 +2,7 @@
 title: "Cara Cek dan Bayar Pajak Kendaraan Online 2026 — Panduan Lengkap Semua Provinsi"
 excerpt: "Nggak perlu antri berjam-jam di Samsat lagi. Panduan lengkap cara cek pajak kendaraan online, bayar pajak motor dan mobil via aplikasi Signal, e-Samsat, dan transfer bank — langkah demi langkah untuk semua provinsi di Indonesia."
 header:
-  teaser: "https://asset.kompas.com/crops/v7H4JGbpWlhifBFHnKvYXpamBOg=/0x0:780x390/750x500/data/photo/2023/02/13/63e9ca4e17a16.jpg"
+  teaser: "https://otorider.com/image/load/1200/675/gallery/pajak_kendaraan_2025_fyzg.jpeg"
   caption: "Bayar pajak kendaraan online tanpa antri di Samsat"
 categories:
   - tips-otomotif
