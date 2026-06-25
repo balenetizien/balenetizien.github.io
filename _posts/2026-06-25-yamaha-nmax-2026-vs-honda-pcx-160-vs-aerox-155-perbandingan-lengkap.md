@@ -2,7 +2,7 @@
 title: "Yamaha NMAX 2026 vs Honda PCX 160 vs Aerox 155 — Perbandingan Jujur dari Pengguna Nyata"
 excerpt: "Bingung pilih maxi-scooter? Tiga pilihan terpopuler Indonesia diadu habis-habisan: NMAX 2026, PCX 160, dan Aerox 155. Harga, performa, kenyamanan, biaya perawatan, dan siapa yang menang untuk kebutuhan kamu."
 header:
-  teaser: "https://i.ytimg.com/vi/1nHnSD5JVv8/maxresdefault.jpg"
+  teaser: "https://imgcdn.oto.com/large/gallery/exterior/84/2358/yamaha-nmax-connected-slant-rear-view-full-image-577364.jpg"
   caption: "NMAX 2026 vs PCX 160 vs Aerox 155"
 categories:
   - motor
