@@ -17,8 +17,8 @@ tags:
   - spesifikasi Honda Scoopy
 toc: true
 toc_sticky: true
-date: 2026-06-27
-last_modified_at: 2026-06-27
+date: 2026-06-25
+last_modified_at: 2026-06-25
 ---
 
 Izinkan saya mulai dengan sesuatu yang mungkin bikin sebagian orang sedikit tidak nyaman: Honda Scoopy itu bukan motor untuk semua orang. Dan itu bukan kritik — itu justru kekuatan terbesarnya.
