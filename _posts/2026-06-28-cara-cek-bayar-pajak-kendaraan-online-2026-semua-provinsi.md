@@ -3,6 +3,7 @@ title: "Cara Cek dan Bayar Pajak Kendaraan Online 2026 — Panduan Lengkap Semua
 excerpt: "Nggak perlu antri berjam-jam di Samsat lagi. Panduan lengkap cara cek pajak kendaraan online, bayar pajak motor dan mobil via aplikasi Signal, e-Samsat, dan transfer bank — langkah demi langkah untuk semua provinsi di Indonesia."
 header:
   teaser: "https://asset.kompas.com/crops/v7H4JGbpWlhifBFHnKvYXpamBOg=/0x0:780x390/750x500/data/photo/2023/02/13/63e9ca4e17a16.jpg"
+  image: "https://otorider.com/image/load/1200/675/gallery/pajak_kendaraan_2025_fyzg.jpeg"
   caption: "Bayar pajak kendaraan online tanpa antri di Samsat"
 categories:
   - tips-otomotif
@@ -53,11 +54,19 @@ Kalau terlambat bayar PKB, ada dendanya. Besarannya 2% per bulan dari PKB yang t
 
 ## Cara 1: Aplikasi Signal (Samsat Digital Nasional) — Paling Disarankan
 
+
+![Cara bayar pajak kendaraan online 2026](https://otorider.com/image/load/1200/675/gallery/pajak_kendaraan_2025_fyzg.jpeg)
+*Bayar pajak kendaraan kini bisa dari mana saja — tidak perlu antri berjam-jam di Samsat.*
+
 Aplikasi **Signal** (Samsat Digital Nasional) adalah solusi resmi pemerintah yang dibuat Korlantas Polri, Kemendagri, dan Jasa Raharja. Ini cara paling mudah dan resmi untuk bayar pajak tahunan kendaraan.
 
 ### Langkah-langkah Bayar Pajak via Signal
 
 **Step 1: Download dan Buat Akun**
+
+
+![Aplikasi Signal Samsat Digital Nasional](https://static.promediateknologi.id/crop/0x0:0x0/1200x0/webp/photo/p1/693/2026/05/08/aplikasi-SIGNAL-869905040.jpg)
+*Aplikasi SIGNAL (Samsat Digital Nasional) — solusi resmi dari Korlantas Polri untuk bayar pajak kendaraan online.*
 
 Download aplikasi Signal di:
 - Google Play Store (Android) — cari "Signal Samsat Digital Nasional"
