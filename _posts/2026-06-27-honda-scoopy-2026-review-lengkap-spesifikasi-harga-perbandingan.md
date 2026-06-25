@@ -3,6 +3,7 @@ title: "Honda Scoopy 2026 Review Jujur — Spesifikasi, Harga, Kelebihan dan Kek
 excerpt: "Honda Scoopy 2026 hadir dengan desain retro yang makin matang. Tapi apakah motor paling modis di kelasnya ini juga paling fungsional? Review lengkap dan jujur dari sisi performa, kenyamanan, biaya perawatan, dan perbandingan dengan kompetitornya."
 header:
   teaser: "https://cdn.motor1.com/images/mgl/nAorW/s3/honda-scoopy-2023.jpg"
+  image: "https://radarselatan.disway.id/upload/2e12acbe31ad30542091a55fb8481c83.jpg"
   caption: "Honda Scoopy 2026 - Retro chic atau sekadar tampilan?"
 categories:
   - motor
@@ -46,6 +47,10 @@ Perbedaan Stylish vs Sporty? Lebih ke tampilan — Sporty punya aksen grafis yan
 
 ## Desain — Ini yang Kamu Beli Pertama Kali
 
+
+![Honda Scoopy 2026 Indonesia warna terbaru](https://radarselatan.disway.id/upload/2e12acbe31ad30542091a55fb8481c83.jpg)
+*Honda Scoopy 2026 — desain retro makin matang dengan pilihan warna eksklusif yang jadi daya tarik utamanya.*
+
 Nggak ada gunanya pura-pura: banyak orang beli Scoopy karena tampilannya. Dan itu sah-sah saja.
 
 Desain Scoopy 2026 mempertahankan DNA retro yang jadi identitasnya — headlamp bulat besar, lekukan bodi yang membulat, dan detail-detail kecil yang memberi kesan vintage modern. Tapi Honda tidak berhenti di situ.
@@ -69,6 +74,10 @@ Ini yang sering jadi alasan orang akhirnya deal:
 Warna Matte Bronze di Scoopy Stylish adalah yang paling banyak dicari — dan biasanya stok paling cepat habis. Kalau itu yang kamu incar, booking lebih awal.
 
 ## Spesifikasi Teknis — Angka di Balik Tampilan
+
+
+![Honda Scoopy tampak samping](https://imgcdn.oto.com/large/gallery/exterior/73/985/honda-scoopy-esp-right-side-viewfull-image-310118.jpg)
+*Tampak samping Honda Scoopy — proporsi yang seimbang dan ban 12 inci memberi karakter handling tersendiri.*
 
 | Spesifikasi | Detail |
 |-------------|--------|
