@@ -3,6 +3,7 @@ title: "Yamaha NMAX 2026 vs Honda PCX 160 vs Aerox 155 — Perbandingan Jujur da
 excerpt: "Bingung pilih maxi-scooter? Tiga pilihan terpopuler Indonesia diadu habis-habisan: NMAX 2026, PCX 160, dan Aerox 155. Harga, performa, kenyamanan, biaya perawatan, dan siapa yang menang untuk kebutuhan kamu."
 header:
   teaser: "https://i.ytimg.com/vi/1nHnSD5JVv8/maxresdefault.jpg"
+  image: "https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2026/02/16/2222630035.jpg"
   caption: "NMAX 2026 vs PCX 160 vs Aerox 155"
 categories:
   - motor
@@ -30,6 +31,10 @@ Ketiganya harganya di kisaran yang sama, tampilannya sama-sama keren, dan klaim 
 Saya sudah punya waktu cukup lama untuk mengamati dan berbicara dengan pengguna ketiga motor ini. Dan di artikel ini saya akan ceritakan perbandingan yang **jujur** — bukan sekadar copy-paste spesifikasi dari brosur, tapi benar-benar apa yang kamu rasakan saat memakainya sehari-hari.
 
 ## Kenapa Tiga Motor Ini yang Dipilih?
+
+
+![Perbandingan Yamaha NMAX 2026 vs Honda PCX 160 vs Aerox 155](https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2026/02/16/2222630035.jpg)
+*Tiga maxi-scooter paling populer di Indonesia 2026 — NMAX, PCX 160, dan Aerox 155.*
 
 Sebelum masuk ke detail, biar jelas dulu kenapa saya membandingkan NMAX, PCX, dan Aerox — dan bukan yang lain.
 
@@ -103,6 +108,10 @@ Versi NMAX Turbo 2026 adalah cerita berbeda — dengan turbocharger kecilnya, ak
 ### Honda PCX 160
 
 PCX 160 punya keunggulan yang jelas di atas kertas: torsi terbesar di antara ketiganya, 15,0 Nm di 6.500 rpm. Di jalanan nyata, ini terasa saat berakselerasi dari kecepatan rendah — PCX terasa "lebih bertenaga" saat dari lampu merah.
+
+
+![Honda PCX 160 terbaru 2026](https://img.youtube.com/vi/xkxG_LnYf2k/mqdefault.jpg)
+*Honda PCX 160 — mesin 160cc dengan torsi terbesar di kelasnya.*
 
 Mesin 160cc-nya juga terasa lebih mulus di kecepatan 90–110 km/jam, lebih tenang dibanding 155cc NMAX atau Aerox. Untuk perjalanan luar kota yang lumayan jauh, PCX memberikan kenyamanan yang lebih baik.
 
