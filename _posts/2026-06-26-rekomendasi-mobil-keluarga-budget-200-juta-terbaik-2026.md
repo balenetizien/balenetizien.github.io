@@ -2,7 +2,7 @@
 title: "5 Rekomendasi Mobil Keluarga Terbaik Budget Rp 200 Juta di 2026 — Jujur dan Berdasarkan Data"
 excerpt: "Punya budget Rp 200 juta dan mau beli mobil keluarga? Bukan soal iklan, ini rekomendasi jujur berdasarkan biaya nyata, kapasitas, keandalan jangka panjang, dan after-sales — dari MPV hingga SUV yang layak masuk list kamu."
 header:
-  teaser: "https://www.carmudi.co.id/journal/wp-content/uploads/2024/06/Kijang-Innova.jpg"
+  teaser: "https://imgcdn.oto.com/large/gallery/exterior/38/1654/toyota-avanza-front-angle-low-view-844132.jpg"
   caption: "Pilihan mobil keluarga terbaik 2026 budget 200 juta"
 categories:
   - mobil
