@@ -6,3 +6,15 @@ main:
     url: /categories/
   - title: "Posts by Year"
     url: /year-archive/
+
+# footer links
+footer:
+  - title: "Privacy Policy"
+    url: /privacy-policy/
+  - title: "Disclaimer"
+    url: /disclaimer/
+  - title: "Contact"
+    url: /contact/
+  - title: "About"
+    url: /about/
+
