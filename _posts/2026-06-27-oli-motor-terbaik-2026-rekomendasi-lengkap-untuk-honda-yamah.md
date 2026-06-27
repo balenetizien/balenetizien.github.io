@@ -19,6 +19,8 @@ toc: true
 toc_sticky: true
 date: 2026-06-27
 last_modified_at: 2026-06-27
+header:
+  teaser: "https://otorider.com/image/load/1200/675/gallery/oli_motor_terbaik_2024.jpeg"
 ---
 
 Kalau kamu punya motor — entah itu Honda Beat yang udah setia menemani dari kuliah, Yamaha NMAX buat ngantor tiap hari, atau Suzuki Satria yang kamu pakai weekend — satu hal yang sering kelewat adalah soal oli.
@@ -28,6 +30,10 @@ Ya, oli motor. Kelihatannya sepele, tapi ini adalah satu-satunya hal yang bikin 
 Problemnya? Pilihan oli di pasaran sekarang itu banyak banget. Harga mulai dari Rp 25 ribuan sampai Rp 150 ribuan per liter. Ada yang bilang pakai oli mahal mesin jadi lebih kenceng. Ada yang bilang oli murah udah cukup asal rutin ganti. Lalu siapa yang bener?
 
 Artikel ini bakal jawab itu semua. Saya akan kasih rekomendasi oli terbaik per merek motor, jelasin kenapa beda merek butuh beda jenis oli, dan kasih tahu kapan kamu harus ganti oli sebelum mesin kamu mulai protes.
+
+
+[![Perbandingan jenis oli motor mineral, semi-sintetis, dan full sintetis](https://otorider.com/image/load/1200/675/gallery/oli_motor_terbaik_2024.jpeg)](https://otorider.com/image/load/1200/675/gallery/oli_motor_terbaik_2024.jpeg)
+*Pilihan oli motor di pasaran makin beragam — mineral, semi-sintetis, hingga full sintetis dengan berbagai merek*
 
 ## Kenapa Pilih Oli yang Tepat Itu Lebih Penting dari yang Kamu Kira
 
@@ -210,6 +216,10 @@ Cek oli bisa lewat kaca inspeksi di samping mesin (kebanyakan motor matic sudah 
 
 **5. Indikator temperatur mesin menyala**
 Ini tanda darurat. Kalau lampu suhu di panel sudah nyala, langsung tepi dan jangan paksa mesin. Matikan motor, tunggu dingin, cek level oli. Bisa jadi oli sudah habis atau terlalu jelek.
+
+
+[![Cara cek dan ganti oli motor matic sendiri di rumah](https://otorider.com/image/load/1200/675/gallery/ganti_oli_motor_sendiri.jpeg)](https://otorider.com/image/load/1200/675/gallery/ganti_oli_motor_sendiri.jpeg)
+*Ganti oli motor sendiri sebenarnya tidak sesulit yang dibayangkan — asalkan tahu langkah yang tepat*
 
 ## Ganti Oli Sendiri vs Ke Bengkel — Mana Lebih Hemat?
 
