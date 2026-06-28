@@ -62,6 +62,15 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/balenetizien"
+    - label: "Privacy Policy"
+      icon: "fas fa-fw fa-shield-alt"
+      url: "/privacy-policy/"
+    - label: "Disclaimer"
+      icon: "fas fa-fw fa-info-circle"
+      url: "/disclaimer/"
+    - label: "Contact"
+      icon: "fas fa-fw fa-envelope"
+      url: "/contact/"
 
 # Reading Files
 include:
