@@ -1,0 +1,30 @@
+# Bale Otomotif
+
+> Blog otomotif Indonesia: ulasan, tips perawatan, harga terbaru, dan perbandingan kendaraan bermotor untuk pecinta mobil dan motor di Indonesia.
+
+## Tentang Situs
+
+Bale Otomotif adalah blog otomotif berbahasa Indonesia yang menyediakan konten seputar mobil dan motor untuk konsumen Indonesia. Konten mencakup ulasan kendaraan, perbandingan spesifikasi, tips perawatan, panduan pembelian, dan informasi harga terkini.
+
+## Navigasi Utama
+
+- [Beranda](https://balenetizien.github.io/)
+- [Kategori Artikel](https://balenetizien.github.io/categories/)
+- [Arsip Tahun](https://balenetizien.github.io/year-archive/)
+- [Tentang](https://balenetizien.github.io/about/)
+- [Privacy Policy](https://balenetizien.github.io/privacy-policy/)
+- [Disclaimer](https://balenetizien.github.io/disclaimer/)
+- [Kontak](https://balenetizien.github.io/contact/)
+
+## Topik Konten
+
+- Harga mobil dan motor terbaru di Indonesia
+- Review dan perbandingan kendaraan bermotor
+- Tips perawatan mobil matic dan motor
+- Panduan membeli mobil bekas berkualitas
+- Informasi pajak kendaraan online
+- Rekomendasi oli motor terbaik
+
+## Sitemap
+
+https://balenetizien.github.io/sitemap.xml
