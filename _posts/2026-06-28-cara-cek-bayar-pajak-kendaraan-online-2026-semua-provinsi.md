@@ -19,6 +19,15 @@ toc: true
 toc_sticky: true
 date: 2026-06-25
 last_modified_at: 2026-06-25
+faq:
+  - question: "Bagaimana cara cek pajak kendaraan secara online?"
+    answer: "Buka aplikasi SIGNAL (Samsat Digital Nasional) di Play Store atau App Store, login dengan NIK, lalu masukkan nomor polisi kendaraan. Status dan jumlah pajak yang harus dibayar akan langsung muncul."
+  - question: "Apakah bisa bayar pajak kendaraan secara online?"
+    answer: "Ya, bisa lewat aplikasi SIGNAL dengan memilih metode pembayaran via transfer bank, mobile banking, atau dompet digital seperti GoPay dan OVO. Setelah bayar, STNK elektronik bisa langsung diunduh."
+  - question: "Berapa denda telat bayar pajak kendaraan?"
+    answer: "Denda keterlambatan pajak kendaraan sebesar 2% per bulan dari PKB yang terutang, maksimal 48 bulan (96%). Jika terlambat 1 tahun, denda sekitar 24% dari nilai PKB kamu."
+  - question: "Apa saja yang dibutuhkan untuk bayar pajak kendaraan online?"
+    answer: "Siapkan NIK (nomor KTP), nomor polisi kendaraan, dan nomor rangka kendaraan. Semua data ini tercantum di STNK dan BPKB kendaraan kamu."
 ---
 
 Siapa yang suka antri di Samsat? Saya rasa tidak ada. Datang pagi, ambil nomor, duduk nunggu dua jam, dipanggil, ternyata ada dokumen kurang, balik lagi besok. Pengalaman klasik yang sudah dialami hampir semua pemilik kendaraan di Indonesia.
