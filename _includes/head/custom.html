@@ -4,7 +4,6 @@
 <!-- GOOGLE ADSENSE                                               -->
 <!-- Uncomment baris di bawah setelah akun AdSense kamu approved -->
 <!-- Ganti ca-pub-XXXXXXXXXXXXXXXX dengan Publisher ID kamu      -->
-<!-- Publisher ID bisa dilihat di: ads.google.com > Account info -->
 <!-- ============================================================ -->
 
 <!-- <script data-ad-client="ca-pub-XXXXXXXXXXXXXXXX" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> -->
@@ -17,7 +16,6 @@
 
 <!-- ============================================================ -->
 <!-- HISTATS VISITOR COUNTER                                      -->
-<!-- Site ID: 5035232                                             -->
 <!-- Dimuat setelah halaman selesai render agar tidak blokir FCP -->
 <!-- ============================================================ -->
 <script type="text/javascript">
@@ -36,21 +34,65 @@ window.addEventListener('load', function() {
 <noscript><a href="/" target="_blank"><img src="//sstatic1.histats.com/0.gif?5035232&101" alt="visitor counter" border="0"></a></noscript>
 
 <!-- ============================================================ -->
-<!-- SEO SCHEMA MARKUP (JSON-LD)                                  -->
-<!-- Article + BreadcrumbList untuk semua post                    -->
-<!-- WebSite schema untuk homepage                                -->
+<!-- STRUCTURED DATA / JSON-LD                                    -->
+<!-- Organization: muncul di semua halaman untuk Knowledge Panel -->
 <!-- ============================================================ -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Bale Otomotif",
+  "url": "{{ site.url }}",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "{{ site.url }}/assets/images/bio-photo.png",
+    "width": 160,
+    "height": 160
+  },
+  "description": {{ site.description | jsonify }},
+  "sameAs": [
+    "https://github.com/balenetizien"
+  ]
+}
+</script>
 
+<!-- WebSite + SiteLinksSearchBox: homepage saja -->
+{% if page.url == "/" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": {{ site.title | jsonify }},
+  "url": "{{ site.url }}",
+  "description": {{ site.description | jsonify }},
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "{{ site.url }}/search/?q={search_term_string}"
+    },
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+{% endif %}
+
+<!-- BlogPosting + BreadcrumbList: halaman post saja -->
 {% if page.layout == 'single' and page.date %}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
+  "@type": "BlogPosting",
   "headline": {{ page.title | jsonify }},
   "description": {{ page.excerpt | strip_html | strip_newlines | truncatewords: 55 | jsonify }},
   "url": "{{ site.url }}{{ page.url }}",
   "datePublished": "{{ page.date | date_to_xmlschema }}",
   "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
+  "inLanguage": "id-ID",
+  "image": {
+    "@type": "ImageObject",
+    "url": {% if page.header.teaser %}{{ page.header.teaser | jsonify }}{% else %}"{{ site.url }}/assets/images/bio-photo.png"{% endif %}
+  },
   "author": {
     "@type": "Person",
     "name": {{ site.author.name | jsonify }},
@@ -58,22 +100,20 @@ window.addEventListener('load', function() {
   },
   "publisher": {
     "@type": "Organization",
-    "name": {{ site.title | jsonify }},
+    "name": "Bale Otomotif",
     "logo": {
       "@type": "ImageObject",
-      "url": "{{ site.url }}/assets/images/bio-photo.png"
+      "url": "{{ site.url }}/assets/images/bio-photo.png",
+      "width": 160,
+      "height": 160
     }
-  },
-  "image": {
-    "@type": "ImageObject",
-    "url": {% if page.header.teaser %}{{ page.header.teaser | jsonify }}{% else %}"{{ site.url }}/assets/images/bio-photo.png"{% endif %}
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "{{ site.url }}{{ page.url }}"
   }{% if page.categories.size > 0 %},
   "articleSection": {{ page.categories | first | jsonify }}{% endif %}{% if page.tags.size > 0 %},
-  "keywords": {{ page.tags | join: ', ' | jsonify }}{% endif %}
+  "keywords": {{ page.tags | join: ", " | jsonify }}{% endif %}
 }
 </script>
 
@@ -111,29 +151,24 @@ window.addEventListener('load', function() {
 </script>
 {% endif %}
 
-{% unless page.layout %}
+<!-- FAQPage: aktif jika post punya front matter `faq:` -->
+{% if page.faq %}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "WebSite",
-  "name": {{ site.title | jsonify }},
-  "url": "{{ site.url }}",
-  "description": {{ site.description | jsonify }},
-  "potentialAction": {
-    "@type": "SearchAction",
-    "target": {
-      "@type": "EntryPoint",
-      "urlTemplate": "{{ site.url }}/search/?q={search_term_string}"
-    },
-    "query-input": "required name=search_term_string"
-  },
-  "author": {
-    "@type": "Person",
-    "name": {{ site.author.name | jsonify }},
-    "url": "{{ site.url }}"
-  }
+  "@type": "FAQPage",
+  "mainEntity": [{% for item in page.faq %}
+    {
+      "@type": "Question",
+      "name": {{ item.question | jsonify }},
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": {{ item.answer | jsonify }}
+      }
+    }{% unless forloop.last %},{% endunless %}{% endfor %}
+  ]
 }
 </script>
-{% endunless %}
+{% endif %}
 
 <!-- end custom head snippets -->
