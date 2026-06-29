@@ -34,7 +34,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google"
+  provider               : ""
   google:
     tracking_id          : # GANTI_UA-XXXXXXXXX-X_ATAU_G-XXXXXXXXXX
     anonymize_ip         :
