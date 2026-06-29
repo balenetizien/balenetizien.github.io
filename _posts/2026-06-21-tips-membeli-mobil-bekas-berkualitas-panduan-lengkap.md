@@ -19,6 +19,15 @@ toc: true
 toc_sticky: true
 date: 2026-06-21
 last_modified_at: 2026-06-24
+faq:
+  - question: "Apa yang paling penting dicek saat membeli mobil bekas?"
+    answer: "Hal paling penting adalah kondisi mesin, bodi eksterior (bekas tabrakan atau cat ulang), kelengkapan dokumen (STNK, BPKB), serta memastikan nomor rangka dan nomor mesin sesuai dengan dokumen kendaraan."
+  - question: "Apakah perlu membawa mekanik saat survey mobil bekas?"
+    answer: "Sangat disarankan. Mekanik berpengalaman bisa mendeteksi masalah mesin, transmisi, atau rangka yang tidak terlihat awam. Biaya inspeksi mekanik sekitar Rp 100.000–300.000 dan sangat worth it untuk menghindari kerugian jutaan rupiah."
+  - question: "Bagaimana cara tahu apakah mobil bekas pernah banjir?"
+    answer: "Cek bagian bawah jok, karpet, dan ruang mesin untuk tanda bekas air atau karat tidak normal. Bau apek atau jamur di dalam kabin juga bisa jadi indikasi bekas banjir. Periksa juga kondisi panel elektrikal dan ECU."
+  - question: "Dokumen apa saja yang wajib dicek saat beli mobil bekas?"
+    answer: "Wajib cek: STNK (pastikan aktif dan sesuai identitas penjual), BPKB asli (bukan fotokopi), faktur pembelian pertama, dan pastikan tidak ada blokir atau tilang yang belum dibayar. Cek juga apakah kendaraan sedang dijadikan agunan kredit."
 ---
 
 Membeli mobil bekas adalah salah satu keputusan finansial terpenting yang bisa kamu buat. Harganya lebih terjangkau dibanding mobil baru — bisa hemat 20–40% — tapi risikonya juga nyata. Banyak pembeli yang akhirnya menyesal karena mendapat mobil yang kondisinya jauh dari harapan.
