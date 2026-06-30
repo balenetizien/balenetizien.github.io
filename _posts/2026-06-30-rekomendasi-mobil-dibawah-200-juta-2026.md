@@ -85,13 +85,15 @@ Segmen LCGC mencakup **city car** (2 baris kursi) dan **LMPV — Low MPV** (3 ba
 
 ---
 
-## 15 Rekomendasi Mobil Dibawah 200 Juta 2026 — Terlengkap
+## 10 Rekomendasi Mobil Dibawah 200 Juta 2026 — Terlengkap
 
 ### 1. Toyota Agya 1.0 G — Rp 155–175 Juta
 
 **Cocok untuk:** Pengendara tunggal, pasangan muda, commuter harian
 
 Toyota Agya adalah salah satu city car LCGC paling populer di Indonesia dan bukan tanpa alasan. Mesin 1.0 liter 3-silindernya ringan, irit, dan terbukti minim masalah. Di jalanan kota yang padat, dimensinya yang kompak memudahkan manuver dan parkir di celah sempit.
+
+{% include figure image_path="https://commons.wikimedia.org/wiki/Special:FilePath/2023_Toyota_Agya_1.2_G_with_TCO_GR_Parts_Aero_Package_(Indonesia)_front_view.jpg" alt="Toyota Agya 2023 Indonesia tampak depan" caption="Toyota Agya 2023 Indonesia — city car LCGC paling populer dengan mesin 1.0L yang irit dan terbukti andal. Sumber: Wikimedia Commons." %}
 
 **Spesifikasi ringkas:**
 - Mesin: 1.0L 3-silinder, 65 PS
@@ -116,6 +118,8 @@ Toyota Agya adalah salah satu city car LCGC paling populer di Indonesia dan buka
 
 Ayla adalah saudara kembar Agya dari brand Daihatsu — mesin dan platform sama, tampilan berbeda, dan harga yang umumnya Rp 10–15 juta lebih murah. Varian entry-level Ayla bahkan bisa didapat di bawah Rp 120 juta, menjadikannya salah satu mobil baru termurah di Indonesia.
 
+{% include figure image_path="https://commons.wikimedia.org/wiki/Special:FilePath/2023_Daihatsu_Ayla_1.2_R_(front).jpg" alt="Daihatsu Ayla 2023 tampak depan" caption="Daihatsu Ayla 2023 — saudara kembar Agya dengan harga lebih terjangkau, pilihan tepat untuk budget paling ketat. Sumber: Wikimedia Commons." %}
+
 **Spesifikasi ringkas:**
 - Mesin: 1.0L 3-silinder, 65 PS
 - Transmisi: Manual 5-percepatan / AMT (Easy Drive)
@@ -136,6 +140,8 @@ Ayla adalah saudara kembar Agya dari brand Daihatsu — mesin dan platform sama,
 **Cocok untuk:** Keluarga muda dengan 1–2 anak, butuh 7 kursi dengan budget terbatas
 
 Calya adalah jawaban Toyota untuk kebutuhan keluarga yang tidak mau kompromi soal jumlah kursi tapi budget terbatas. Dengan tujuh kursi di bawah Rp 190 juta, ini salah satu penawaran terbaik di segmen LMPV entry-level.
+
+{% include figure image_path="https://commons.wikimedia.org/wiki/Special:FilePath/2019_Toyota_Calya_1.2_G_B401RA_(20200222).jpg" alt="Toyota Calya 1.2 G tampak depan" caption="Toyota Calya 1.2 G — MPV 7 kursi terjangkau dari Toyota dengan mesin 1.2L yang lebih bertenaga dari city car 1.0L. Sumber: Wikimedia Commons." %}
 
 **Spesifikasi ringkas:**
 - Mesin: 1.2L 3-silinder, 88 PS
@@ -160,6 +166,8 @@ Calya adalah jawaban Toyota untuk kebutuhan keluarga yang tidak mau kompromi soa
 
 Seperti hubungan Agya-Ayla, Sigra adalah saudara kembar Calya dari Daihatsu. Spesifikasi teknis hampir identik, harga biasanya Rp 2–5 juta lebih murah dari Calya di varian setara.
 
+{% include figure image_path="https://commons.wikimedia.org/wiki/Special:FilePath/2020_Daihatsu_Sigra_1.2_R_B401RS_(20210905)_01.jpg" alt="Daihatsu Sigra 1.2 R tampak depan" caption="Daihatsu Sigra 1.2 R — MPV 7 kursi kembar Calya dengan harga sedikit lebih terjangkau, pilihan cerdas untuk keluarga budget-conscious. Sumber: Wikimedia Commons." %}
+
 **Spesifikasi ringkas:**
 - Mesin: 1.2L 3-silinder, 88 PS
 - Transmisi: Manual 5-percepatan / CVT
@@ -181,6 +189,8 @@ Seperti hubungan Agya-Ayla, Sigra adalah saudara kembar Calya dari Daihatsu. Spe
 
 Honda Brio adalah city car yang bermain sedikit di atas segmen LCGC murni — desainnya lebih sporty, kabin terasa lebih premium, dan brand Honda memberikan nilai jual kembali yang konsisten tinggi. Di antara semua pilihan di daftar ini, Brio adalah yang paling "lifestyle".
 
+{% include figure image_path="https://commons.wikimedia.org/wiki/Special:FilePath/2023_Honda_Brio_RS_(Indonesia)_front_view.jpg" alt="Honda Brio RS 2023 Indonesia tampak depan" caption="Honda Brio RS 2023 Indonesia — city car paling stylish di kelasnya dengan nilai jual kembali tertinggi di segmen ini. Sumber: Wikimedia Commons." %}
+
 **Spesifikasi ringkas:**
 - Mesin: 1.2L 4-silinder i-VTEC, 90 PS
 - Transmisi: Manual 5-percepatan / CVT
@@ -200,9 +210,11 @@ Honda Brio adalah city car yang bermain sedikit di atas segmen LCGC murni — de
 
 ### 6. Suzuki Ignis GX — Rp 180–197 Juta
 
-**Cocok untuk:** Yang mau tampil beda, anak muda, suka desain unik
+**Cocok untuk:** Yang mau tampil beda, anak muda, suka desain unik crossover mini
 
 Di lautan Agya-Ayla-Brio yang seragam, Suzuki Ignis tampil beda dengan desain crossover mini yang eye-catching dan posisi duduk lebih tinggi dari city car biasa. Ground clearance-nya lebih tinggi, membuatnya lebih percaya diri di jalan tidak mulus.
+
+{% include figure image_path="https://commons.wikimedia.org/wiki/Special:FilePath/2017_Suzuki_Ignis_(MF)_GLX_hatchback_(2018-08-20)_01.jpg" alt="Suzuki Ignis MF tampak depan" caption="Suzuki Ignis — crossover mini dengan desain paling unik di kelas ini, ground clearance lebih tinggi dari city car biasa. Sumber: Wikimedia Commons." %}
 
 **Spesifikasi ringkas:**
 - Mesin: 1.2L 4-silinder Dualjet, 83 PS
@@ -223,6 +235,8 @@ Di lautan Agya-Ayla-Brio yang seragam, Suzuki Ignis tampil beda dengan desain cr
 
 Karimun Wagon R adalah city car dengan desain kotak yang unik — tingginya yang melebihi city car biasa memberikan kabin yang terasa jauh lebih lega dibanding dimensi eksteriornya. Untuk kondisi perkotaan padat, ukurannya yang kompak dengan kabin lapang adalah nilai lebih yang jarang dimiliki kompetitor.
 
+{% include figure image_path="https://commons.wikimedia.org/wiki/Special:FilePath/2019_Suzuki_Karimun_Wagon_R_GS_(Indonesia)_front_view.jpg" alt="Suzuki Karimun Wagon R GS Indonesia tampak depan" caption="Suzuki Karimun Wagon R GS Indonesia — city car bertubuh kotak dengan kabin yang terasa lebih lega dari ukurannya. Sumber: Wikimedia Commons." %}
+
 **Spesifikasi ringkas:**
 - Mesin: 1.0L 3-silinder, 68 PS
 - Transmisi: Manual 5-percepatan / AGS
@@ -238,9 +252,11 @@ Karimun Wagon R adalah city car dengan desain kotak yang unik — tingginya yang
 
 ### 8. Daihatsu Gran Max MPV 1.3 D — Rp 170–195 Juta
 
-**Cocok untuk:** Kebutuhan bisnis ringan sekaligus keluarga, yang butuh kabin ekstra besar
+**Cocok untuk:** Kebutuhan bisnis ringan sekaligus keluarga, yang butuh kapasitas angkut maksimal
 
 Gran Max MPV adalah pilihan yang sering diabaikan dalam kategori "mobil keluarga murah" — padahal kapasitas kabinnya bisa menampung 8 penumpang dengan harga yang sangat terjangkau. Jika fungsionalitas adalah prioritas utama dan gaya nomor dua, Gran Max patut dipertimbangkan.
+
+{% include figure image_path="https://commons.wikimedia.org/wiki/Special:FilePath/Daihatsu_Gran_Max.jpg" alt="Daihatsu Gran Max MPV tampak depan" caption="Daihatsu Gran Max MPV — pilihan paling fungsional dengan 8 kursi di bawah Rp 200 juta, ideal untuk keluarga besar atau kebutuhan bisnis ringan. Sumber: Wikimedia Commons." %}
 
 **Spesifikasi ringkas:**
 - Mesin: 1.3L 4-silinder, 91 PS
@@ -261,6 +277,8 @@ Gran Max MPV adalah pilihan yang sering diabaikan dalam kategori "mobil keluarga
 
 Wuling Confero S hadir sebagai alternatif low MPV yang menawarkan fitur lebih banyak dibanding LCGC di kisaran harga yang sama. Layar sentuh bawaan, kamera parkir, dan desain yang lebih modern dari Gran Max menjadi nilai tambah yang signifikan.
 
+{% include figure image_path="https://commons.wikimedia.org/wiki/Special:FilePath/Wuling_Confero_S_(front),_Denpasar.jpg" alt="Wuling Confero S tampak depan Denpasar" caption="Wuling Confero S — MPV 7 kursi dari brand Cina dengan mesin 1.5L paling bertenaga di kelas harganya. Sumber: Wikimedia Commons." %}
+
 **Spesifikasi ringkas:**
 - Mesin: 1.5L 4-silinder, 107 PS
 - Transmisi: Manual 5-percepatan
@@ -274,17 +292,19 @@ Wuling Confero S hadir sebagai alternatif low MPV yang menawarkan fitur lebih ba
 
 ---
 
-### 10. Toyota Avanza 1.3 G (Bekas 2021–2022) — ~Rp 180–200 Juta
+### 10. Toyota Avanza 2021–2022 (Bekas) — ~Rp 180–200 Juta
 
-**Cocok untuk:** Yang butuh nama besar dan 7 kursi dengan nilai jual kembali terbaik
+**Cocok untuk:** Yang butuh nama besar, 7 kursi, dan nilai jual kembali terbaik
 
 Jika budget Rp 200 juta mau dipakai untuk mobil "yang banyak orang percaya," Toyota Avanza bekas tahun 2021–2022 bisa masuk dalam radar. Avanza tetap salah satu mobil paling laku di Indonesia dan nilai jual kembalinya sangat stabil.
+
+{% include figure image_path="https://commons.wikimedia.org/wiki/Special:FilePath/2022_Toyota_Avanza_(PH).jpg" alt="Toyota Avanza 2022 tampak depan" caption="Toyota Avanza 2022 — MPV legendaris Indonesia dengan nilai jual kembali paling stabil. Bekas 2021–2022 bisa masuk budget Rp 200 juta. Sumber: Wikimedia Commons." %}
 
 **Mengapa masuk daftar ini:** Karena banyak orang yang mencari "mobil 200 juta 2026" sebenarnya mempertimbangkan antara baru LCGC vs bekas Avanza. Keduanya pilihan valid dengan trade-off berbeda.
 
 **Pertimbangan:**
-- Baru LCGC: garansi, kondisi terjamin, teknologi mesin terbaru
-- Avanza bekas 2021–2022: mesin 1.3L/1.5L lebih bertenaga, kabin lebih luas, brand recognition lebih kuat
+- **Baru LCGC:** garansi, kondisi terjamin, teknologi mesin terbaru
+- **Avanza bekas 2021–2022:** mesin 1.3L/1.5L lebih bertenaga, kabin lebih luas, brand recognition lebih kuat
 
 ---
 
@@ -301,6 +321,7 @@ Jika budget Rp 200 juta mau dipakai untuk mobil "yang banyak orang percaya," Toy
 | Daihatsu Gran Max MPV | Rp 170–195 jt | 8 orang | 1.3L | ±15 km/L | — | ⭐⭐⭐ |
 | Honda Brio S | Rp 175–200 jt | 5 orang | 1.2L | ±16 km/L | CVT | ⭐⭐⭐⭐⭐ |
 | Suzuki Ignis GX | Rp 180–197 jt | 5 orang | 1.2L | ±17 km/L | AGS | ⭐⭐⭐ |
+| Toyota Avanza bekas | ~Rp 180–200 jt | 7 orang | 1.3/1.5L | ±14 km/L | AT | ⭐⭐⭐⭐⭐ |
 
 ---
 
@@ -391,15 +412,13 @@ Harga beli bukan satu-satunya biaya kepemilikan. Ini estimasi biaya tahunan untu
 | Servis rutin (4x/tahun) | Rp 800 ribu – Rp 1,5 juta |
 | Penggantian ban (2 tahun sekali) | Rp 1,2–2 juta (4 ban) |
 | Penggantian aki (3–4 tahun) | Rp 700 ribu – Rp 1,2 juta |
-| BBM (10.000 km/bulan, BBM Rp 10.000/L, 18 km/L) | ±Rp 6,7 juta/bulan |
+| BBM (10.000 km/bulan, Rp 10.000/L, 18 km/L) | ±Rp 6,7 juta/bulan |
 
 Total biaya di luar cicilan (non-BBM) sekitar **Rp 400 ribu–Rp 700 ribu per bulan** untuk LCGC. Angka ini jauh lebih rendah dibanding segmen di atasnya.
 
 ---
 
 ## Apakah 2026 Waktu yang Tepat untuk Beli Mobil?
-
-Pertanyaan yang selalu relevan: kapan waktu terbaik beli?
 
 Secara umum, kondisi pasar mobil baru 2026 masih stabil dengan suku bunga kredit yang terjaga. Beberapa hal yang perlu diperhatikan:
 
@@ -413,8 +432,6 @@ Jika kamu sudah siap secara finansial (DP tersedia, cicilan ≤ 30% dari penghas
 
 ## Kesimpulan: Mana yang Paling Worth It?
 
-Setelah semua pertimbangan, ini rekomendasi ringkas berdasarkan profil pembeli:
-
 **Paling worth it secara keseluruhan:** **Toyota Calya CVT** — 7 kursi, harga terjangkau, mesin cukup bertenaga, jaringan servis luas, dan nilai jual kembali di atas rata-rata LCGC.
 
 **Terbaik untuk single/pasangan muda:** **Honda Brio CVT** — gaya premium, performa responsif, nilai jual kembali terbaik di kelasnya.
@@ -425,15 +442,13 @@ Setelah semua pertimbangan, ini rekomendasi ringkas berdasarkan profil pembeli:
 
 **Budget paling ketat:** **Daihatsu Ayla** — tidak ada yang mengalahkan Ayla soal harga. Rp 110 jutaan sudah dapat mobil baru bergaransi resmi.
 
----
-
 Mobil apa pun yang kamu pilih dari daftar ini, pastikan keputusanmu didasarkan pada **kebutuhan nyata, bukan iklan atau tekanan sosial**. Mobil terbaik bukan yang paling mahal atau paling populer — tapi yang paling sesuai dengan rutinitas, keluarga, dan kantong kamu.
 
 Sudah lebih siap memilih?
 
 ---
 
-*Harga yang tercantum adalah perkiraan OTR Jakarta per Juni 2026 dan dapat berubah sewaktu-waktu. Selalu konfirmasi harga terbaru ke dealer resmi sebelum memutuskan pembelian. Simulasi cicilan bersifat indikatif dan dapat berbeda tergantung kebijakan lembaga pembiayaan, profil kredit, dan promo yang berlaku.*
+*Harga yang tercantum adalah perkiraan OTR Jakarta per Juni 2026 dan dapat berubah sewaktu-waktu. Selalu konfirmasi harga terbaru ke dealer resmi sebelum memutuskan pembelian. Gambar kendaraan bersumber dari Wikimedia Commons di bawah lisensi Creative Commons.*
 
 ---
 
