@@ -147,7 +147,22 @@ compress_html:
   ignore:
     envs: development
 
+# English posts collection for international SEO
+collections:
+  posts_en:
+    output: true
+
 defaults:
+  - scope:
+      path: ""
+      type: posts_en
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true
+      related: false
+      comments: false
   - scope:
       path: ""
       type: posts
