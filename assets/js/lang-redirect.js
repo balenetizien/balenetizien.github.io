@@ -1,3 +1,10 @@
+// ╔══════════════════════════════════════════════════════════════════════╗
+// ║  ⚠️  JANGAN UBAH CARA LOAD FILE INI  ⚠️                             ║
+// ║  File ini HARUS dimuat dengan: <script defer src="/assets/js/..."> ║
+// ║  • "defer" = tidak parse-blocking, jalan setelah DOM ready        ║
+// ║  • Inline di <head> akan blokir FCP dan merusak skor Performa     ║
+// ║  • File ini menggantikan inline script 5KB yang ada di <head>     ║
+// ╚══════════════════════════════════════════════════════════════════════╝
 // lang-redirect.js - loaded with defer, DOM is ready when this runs
 (function() {
   // Create google translate container (removed from HTML to avoid invalid <div> in <head>)
