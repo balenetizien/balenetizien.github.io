@@ -34,6 +34,139 @@ window.addEventListener('load', function() {
 <noscript><a href="/" target="_blank"><img src="//sstatic1.histats.com/0.gif?5035232&101" alt="visitor counter" border="0"></a></noscript>
 
 <!-- ============================================================ -->
+<!-- AUTO-TRANSLATE: Pengunjung luar Indonesia → Bahasa Inggris  -->
+<!-- UX: Google Translate dipicu otomatis berdasarkan IP/bahasa  -->
+<!-- SEO: hreflang di head.html sudah memberi sinyal ke Google   -->
+<!-- ============================================================ -->
+<div id="google_translate_element"></div>
+<script type="text/javascript">
+(function() {
+  'use strict';
+  var LANG_KEY = 'bale-lang-v1';
+
+  function getCookie(name) {
+    var match = document.cookie.match(new RegExp('(^| )' + name + '=([^;]+)'));
+    return match ? match[2] : null;
+  }
+
+  function setGoogTransCookie(lang) {
+    var d = window.location.hostname;
+    var val = '/id/' + lang;
+    document.cookie = 'googtrans=' + val + '; path=/; domain=.' + d + '; SameSite=Lax';
+    document.cookie = 'googtrans=' + val + '; path=/; SameSite=Lax';
+  }
+
+  function clearGoogTransCookie() {
+    var d = window.location.hostname;
+    var exp = 'expires=Thu, 01 Jan 1970 00:00:00 GMT';
+    document.cookie = 'googtrans=; path=/; domain=.' + d + '; ' + exp;
+    document.cookie = 'googtrans=; path=/; ' + exp;
+  }
+
+  function loadGoogleTranslate() {
+    window.googleTranslateElementInit = function() {
+      new google.translate.TranslateElement({
+        pageLanguage: 'id',
+        autoDisplay: false,
+        multilanguagePage: false
+      }, 'google_translate_element');
+    };
+    var s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.async = true;
+    s.src = '//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit';
+    document.head.appendChild(s);
+  }
+
+  function addLangSwitcher(currentLang) {
+    window.addEventListener('DOMContentLoaded', function() {
+      var btn = document.createElement('div');
+      btn.id = 'lang-switcher';
+      if (currentLang === 'en') {
+        btn.innerHTML = '🇮🇩 Bahasa Indonesia';
+        btn.title = 'Ganti ke Bahasa Indonesia';
+        btn.onclick = function() { window.baleSetLang('id'); };
+      } else {
+        btn.innerHTML = '🇺🇸 English';
+        btn.title = 'Switch to English';
+        btn.onclick = function() { window.baleSetLang('en'); };
+      }
+      document.body.appendChild(btn);
+    });
+  }
+
+  function showAutoTranslateNotice() {
+    window.addEventListener('DOMContentLoaded', function() {
+      var notice = document.createElement('div');
+      notice.id = 'lang-notice';
+      notice.innerHTML = '<span>🌐 This page was auto-translated to English. <a href="#" onclick="window.baleSetLang(\'id\');return false;">View original (Bahasa Indonesia)</a></span><button onclick="this.parentElement.remove()" aria-label="Close">✕</button>';
+      document.body.appendChild(notice);
+    });
+  }
+
+  window.baleSetLang = function(lang) {
+    localStorage.setItem(LANG_KEY, lang);
+    if (lang === 'en') {
+      setGoogTransCookie('en');
+    } else {
+      clearGoogTransCookie();
+    }
+    window.location.reload();
+  };
+
+  var saved = localStorage.getItem(LANG_KEY);
+  var gtCookie = getCookie('googtrans');
+
+  if (saved === 'en' || (gtCookie && gtCookie.indexOf('/en') >= 0)) {
+    localStorage.setItem(LANG_KEY, 'en');
+    setGoogTransCookie('en');
+    loadGoogleTranslate();
+    addLangSwitcher('en');
+    return;
+  }
+
+  if (saved === 'id') {
+    addLangSwitcher('id');
+    return;
+  }
+
+  window.addEventListener('load', function() {
+    var browserLang = (navigator.language || navigator.userLanguage || 'id').toLowerCase();
+    if (browserLang.startsWith('id')) {
+      addLangSwitcher('id');
+      return;
+    }
+
+    fetch('https://ipapi.co/country/', { cache: 'no-cache' })
+      .then(function(r) { return r.text(); })
+      .then(function(country) {
+        country = country.trim();
+        if (country !== 'ID') {
+          localStorage.setItem(LANG_KEY, 'en');
+          setGoogTransCookie('en');
+          loadGoogleTranslate();
+          addLangSwitcher('en');
+          showAutoTranslateNotice();
+        } else {
+          addLangSwitcher('id');
+        }
+      })
+      .catch(function() {
+        if (!browserLang.startsWith('id')) {
+          localStorage.setItem(LANG_KEY, 'en');
+          setGoogTransCookie('en');
+          loadGoogleTranslate();
+          addLangSwitcher('en');
+          showAutoTranslateNotice();
+        } else {
+          addLangSwitcher('id');
+        }
+      });
+  });
+})();
+</script>
+
+<!-- ============================================================ -->
 <!-- STRUCTURED DATA / JSON-LD                                    -->
 <!-- Organization: muncul di semua halaman untuk Knowledge Panel -->
 <!-- ============================================================ -->
