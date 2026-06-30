@@ -31,6 +31,7 @@ window.addEventListener('load', function() {
   (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
 });
 </script>
+<!-- ⚠️ JANGAN HAPUS width/height/style — tanpa ini tracking pixel menyebabkan CLS -->
 <noscript><a href="/" target="_blank"><img src="//sstatic1.histats.com/0.gif?5035232&101" alt="visitor counter" border="0" width="1" height="1" style="display:none"></a></noscript>
 
 <!-- ============================================================ -->
@@ -39,7 +40,12 @@ window.addEventListener('load', function() {
 <!-- Jika ada halaman Inggris (hreflang en) → redirect langsung  -->
 <!-- Jika tidak ada → Google Translate sebagai fallback           -->
 <!-- ============================================================ -->
-<!-- Language redirect: file eksternal agar tidak parse-blocking di <head> -->
+<!-- ╔════════════════════════════════════════════════════════════════╗
+     ║  ⚠️  JANGAN UBAH POLA SCRIPT INI  ⚠️                          ║
+     ║  • HARUS "defer" — tanpa defer menjadi parse-blocking         ║
+     ║  • HARUS src eksternal — inline script di <head> blokir FCP   ║
+     ║  • Sudah diuji: pola ini tidak menambah CLS sama sekali       ║
+     ╚════════════════════════════════════════════════════════════════╝ -->
 <script defer src="/assets/js/lang-redirect.js"></script>
 
 <!-- ============================================================ -->
