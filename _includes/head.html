@@ -7,9 +7,20 @@
 <!-- https://t.co/dKP3o1e -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<!-- Hreflang: sinyal bahasa ke Google -->
+<!-- Hreflang: sinyal bahasa ke Google (smart per-page) -->
+{% if page.lang == 'en' %}
+<link rel="alternate" hreflang="en" href="{{ site.url }}{{ page.url }}">
+{% if page.lang_id %}<link rel="alternate" hreflang="id" href="{{ site.url }}{{ page.lang_id }}">
+<link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ page.lang_id }}">{% else %}
+<link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ page.url }}">{% endif %}
+{% elsif page.lang_en %}
+<link rel="alternate" hreflang="id" href="{{ site.url }}{{ page.url }}">
+<link rel="alternate" hreflang="en" href="{{ site.url }}{{ page.lang_en }}">
+<link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ page.url }}">
+{% else %}
 <link rel="alternate" hreflang="id" href="{{ site.url }}{{ page.url }}">
 <link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ page.url }}">
+{% endif %}
 
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
