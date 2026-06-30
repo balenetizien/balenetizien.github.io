@@ -2,7 +2,7 @@
 title: "Kekurangan Honda Scoopy 2026: 9 Kelemahan yang Wajib Kamu Tahu Sebelum Beli"
 excerpt: "Mau beli Honda Scoopy 2026 tapi masih ragu? Baca dulu 9 kekurangan Honda Scoopy 2026 yang jarang dibahas — bagasi tidak muat helm, harga kurang kompetitif, mesin ngos-ngosan di jalan raya, sampai tidak ada USB charger. Review jujur, lengkap, dan bermanfaat."
 header:
-  teaser: "https://radarselatan.disway.id/upload/2e12acbe31ad30542091a55fb8481c83.jpg"
+  teaser: "/assets/images/posts/scoopy-2026-dealer.jpg"
   caption: "Honda Scoopy 2026 — cantik di jalan, tapi ada beberapa hal penting sebelum beli"
 categories:
   - motor
@@ -54,7 +54,7 @@ Dan dari situ mengalir keluhan-keluhan lain yang, jujur, tidak pernah saya baca 
 
 Artikel ini berbeda. Saya tidak akan jual mimpi ke kamu. Kalau kamu lagi mempertimbangkan beli Honda Scoopy 2026, ini yang perlu kamu baca **sebelum** uang kamu keluar. Bukan untuk menakut-nakuti — tapi supaya kamu beli dengan ekspektasi realistis dan tidak menyesal di bulan kedua.
 
-{% include figure image_path="https://radarselatan.disway.id/upload/2e12acbe31ad30542091a55fb8481c83.jpg" alt="Honda Scoopy 2026 tampak samping — motor matic retro Honda terpopuler" caption="Honda Scoopy 2026: desain retro yang ikonik, tapi ada beberapa hal penting yang perlu kamu ketahui sebelum membelinya." %}
+{% include figure image_path="/assets/images/posts/scoopy-2026-dealer.jpg" alt="Honda Scoopy 2026 tampak samping — motor matic retro Honda terpopuler" caption="Honda Scoopy 2026: desain retro yang ikonik, tapi ada beberapa hal penting yang perlu kamu ketahui sebelum membelinya." %}
 
 Karena Scoopy itu motor yang bagus. Tapi bukan untuk semua orang. Dan itu artinya beda.
 
@@ -80,7 +80,7 @@ Spesifikasi teknis resmi:
 
 Angkanya terlihat oke. Tapi angka tidak cerita segalanya — dan di situlah kita mulai.
 
-{% include figure image_path="https://otodriver.com/image/load/800/450/gallery/honda_scoopy_2026_side_akuv.jpeg" alt="Honda Scoopy 2026 tampak samping lengkap — desain retro matic Honda" caption="Tampilan samping Honda Scoopy 2026 yang mempertahankan desain retro ikonik khas Scoopy sejak generasi awal." %}
+{% include figure image_path="/assets/images/posts/scoopy-2026-smart-black.jpg" alt="Honda Scoopy 2026 tampak samping lengkap — desain retro matic Honda" caption="Tampilan samping Honda Scoopy 2026 yang mempertahankan desain retro ikonik khas Scoopy sejak generasi awal." %}
 
 ---
 
@@ -92,7 +92,7 @@ Ini kekurangan yang paling sering bikin frustrasi pemilik baru — dan keluhan p
 
 Bagasi bawah jok Scoopy 2026 hanya sekitar **11 liter** dalam kondisi ideal, tanpa ada kabel charger atau barang bawaan lain yang sudah terpasang. Untuk gambaran konkret: helm half-face ukuran M standar orang dewasa Indonesia **tidak muat**. Bukan hampir muat, bukan mepet-mepet — memang tidak muat.
 
-{% include figure image_path="https://otodriver.com/image/load/800/450/gallery/scoopy_2026_bagasi_lqbs.jpeg" alt="Bagasi Honda Scoopy 2026 yang sempit hanya 11 liter — kekurangan utama Scoopy 2026" caption="Kapasitas bagasi Honda Scoopy 2026 hanya 11 liter — salah satu yang tersempit di kelasnya dan tidak cukup untuk helm standar dewasa." %}
+{% include figure image_path="/assets/images/posts/scoopy-2026-dealer.jpg" alt="Bagasi Honda Scoopy 2026 yang sempit hanya 11 liter — kekurangan utama Scoopy 2026" caption="Kapasitas bagasi Honda Scoopy 2026 hanya 11 liter — salah satu yang tersempit di kelasnya dan tidak cukup untuk helm standar dewasa." %}
 
 Bukan cuma itu. Coba bandingkan dengan motor di rentang harga yang sama:
 
@@ -183,7 +183,7 @@ Kalau kamu commute 25–40 km sekali jalan setiap hari dengan waktu tempuh lebih
 
 ### 8. Tidak Ada Port USB Charger di Semua Varian
 
-{% include figure image_path="https://otodriver.com/image/load/800/450/gallery/honda_scoopy_2026_dashboard_akuv.jpeg" alt="Dashboard Honda Scoopy 2026 — tidak ada USB charger standar di semua varian" caption="Panel instrumen Honda Scoopy 2026 — perhatikan tidak adanya port USB charger yang sudah menjadi standar di beberapa kompetitornya." %}
+{% include figure image_path="/assets/images/posts/scoopy-2026-smart-black.jpg" alt="Dashboard Honda Scoopy 2026 — tidak ada USB charger standar di semua varian" caption="Panel instrumen Honda Scoopy 2026 — perhatikan tidak adanya port USB charger yang sudah menjadi standar di beberapa kompetitornya." %}
 
 Hampir semua orang sekarang butuh mengisi daya ponsel di perjalanan — navigasi Google Maps menguras baterai dengan cepat, komunikasi via WhatsApp butuh koneksi terus-menerus.
 
@@ -202,7 +202,7 @@ Di kelas harga Scoopy yang sudah cukup premium untuk 110cc, absennya USB charger
 
 Ini bukan kekurangan teknis, tapi penting dari sisi investasi jangka panjang — dan jarang dipikirkan orang saat masih dalam euforia mau beli motor baru.
 
-{% include figure image_path="https://otodriver.com/image/load/800/450/gallery/scoopy_2026_warna_lqbs.jpeg" alt="Pilihan warna Honda Scoopy 2026 — desain retro yang khas namun spesifik" caption="Honda Scoopy 2026 hadir dalam berbagai pilihan warna retro yang khas — desain kuat ini justru membuat pasarnya lebih spesifik saat dijual kembali." %}
+{% include figure image_path="/assets/images/posts/scoopy-2026-dealer.jpg" alt="Pilihan warna Honda Scoopy 2026 — desain retro yang khas namun spesifik" caption="Honda Scoopy 2026 hadir dalam berbagai pilihan warna retro yang khas — desain kuat ini justru membuat pasarnya lebih spesifik saat dijual kembali." %}
 
 Desain Scoopy 2026 sangat kuat kepribadiannya: retro, playful, punya karakter visual yang khas. Honda memang sengaja. Tapi desain kuat dan spesifik juga berarti **pasar pembeli bekasnya lebih sempit** dibanding Beat atau Vario.
 
@@ -212,7 +212,7 @@ Kalau suatu hari kamu mau jual motor, Scoopy butuh pembeli yang memang "jatuh ci
 
 ## Perbandingan Lengkap Scoopy 2026 vs Kompetitor Terdekat
 
-{% include figure image_path="https://otodriver.com/image/load/800/450/gallery/perbandingan_bagasi_motor_matic.jpeg" alt="Perbandingan motor matic Honda 2026 — Scoopy vs Beat vs Vario 125" caption="Perbandingan tiga motor matic Honda yang paling sering dibandingkan: Scoopy 2026, Beat 2026, dan Vario 125 2026." %}
+{% include figure image_path="/assets/images/posts/scoopy-2026-smart-black.jpg" alt="Perbandingan motor matic Honda 2026 — Scoopy vs Beat vs Vario 125" caption="Perbandingan tiga motor matic Honda yang paling sering dibandingkan: Scoopy 2026, Beat 2026, dan Vario 125 2026." %}
 
 | Fitur | Honda Scoopy 2026 | Honda Beat 2026 | Honda Vario 125 2026 |
 |-------|:-----------------:|:---------------:|:--------------------:|
