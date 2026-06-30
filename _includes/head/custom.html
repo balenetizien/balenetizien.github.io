@@ -31,7 +31,7 @@ window.addEventListener('load', function() {
   (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
 });
 </script>
-<noscript><a href="/" target="_blank"><img src="//sstatic1.histats.com/0.gif?5035232&101" alt="visitor counter" border="0"></a></noscript>
+<noscript><a href="/" target="_blank"><img src="//sstatic1.histats.com/0.gif?5035232&101" alt="visitor counter" border="0" width="1" height="1" style="display:none"></a></noscript>
 
 <!-- ============================================================ -->
 <!-- LANGUAGE AUTO-REDIRECT                                       -->
@@ -39,9 +39,15 @@ window.addEventListener('load', function() {
 <!-- Jika ada halaman Inggris (hreflang en) → redirect langsung  -->
 <!-- Jika tidak ada → Google Translate sebagai fallback           -->
 <!-- ============================================================ -->
-<div id="google_translate_element"></div>
 <script type="text/javascript">
-(function() {
+document.addEventListener('DOMContentLoaded', function() {
+  // Inject google translate element so it's not in <head> (invalid HTML)
+  if (!document.getElementById('google_translate_element')) {
+    var gte = document.createElement('div');
+    gte.id = 'google_translate_element';
+    document.body.appendChild(gte);
+  }
+  (function() {
   'use strict';
   var LANG_KEY = 'bale-lang-v2';
   var saved = localStorage.getItem(LANG_KEY);
@@ -196,7 +202,8 @@ window.addEventListener('load', function() {
         switchToEnglish(true);
       });
   });
-})();
+  })();
+});
 </script>
 
 <!-- ============================================================ -->
