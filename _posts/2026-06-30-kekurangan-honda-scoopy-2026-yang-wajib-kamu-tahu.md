@@ -92,8 +92,6 @@ Ini kekurangan yang paling sering bikin frustrasi pemilik baru — dan keluhan p
 
 Bagasi bawah jok Scoopy 2026 hanya sekitar **11 liter** dalam kondisi ideal, tanpa ada kabel charger atau barang bawaan lain yang sudah terpasang. Untuk gambaran konkret: helm half-face ukuran M standar orang dewasa Indonesia **tidak muat**. Bukan hampir muat, bukan mepet-mepet — memang tidak muat.
 
-{% include figure image_path="/assets/images/posts/scoopy-2026-dealer.jpg" alt="Bagasi Honda Scoopy 2026 yang sempit hanya 11 liter — kekurangan utama Scoopy 2026" caption="Kapasitas bagasi Honda Scoopy 2026 hanya 11 liter — salah satu yang tersempit di kelasnya dan tidak cukup untuk helm standar dewasa." %}
-
 Bukan cuma itu. Coba bandingkan dengan motor di rentang harga yang sama:
 
 | Motor | Kapasitas Bagasi | Harga |
@@ -183,8 +181,6 @@ Kalau kamu commute 25–40 km sekali jalan setiap hari dengan waktu tempuh lebih
 
 ### 8. Tidak Ada Port USB Charger di Semua Varian
 
-{% include figure image_path="/assets/images/posts/scoopy-2026-smart-black.jpg" alt="Dashboard Honda Scoopy 2026 — tidak ada USB charger standar di semua varian" caption="Panel instrumen Honda Scoopy 2026 — perhatikan tidak adanya port USB charger yang sudah menjadi standar di beberapa kompetitornya." %}
-
 Hampir semua orang sekarang butuh mengisi daya ponsel di perjalanan — navigasi Google Maps menguras baterai dengan cepat, komunikasi via WhatsApp butuh koneksi terus-menerus.
 
 Honda PCX 160 2026 sudah punya USB port. Beberapa varian Vario 160 juga. Tapi Honda Scoopy 2026 di Indonesia? Tidak ada USB charger sebagai fitur standar di semua varian.
@@ -202,8 +198,6 @@ Di kelas harga Scoopy yang sudah cukup premium untuk 110cc, absennya USB charger
 
 Ini bukan kekurangan teknis, tapi penting dari sisi investasi jangka panjang — dan jarang dipikirkan orang saat masih dalam euforia mau beli motor baru.
 
-{% include figure image_path="/assets/images/posts/scoopy-2026-dealer.jpg" alt="Pilihan warna Honda Scoopy 2026 — desain retro yang khas namun spesifik" caption="Honda Scoopy 2026 hadir dalam berbagai pilihan warna retro yang khas — desain kuat ini justru membuat pasarnya lebih spesifik saat dijual kembali." %}
-
 Desain Scoopy 2026 sangat kuat kepribadiannya: retro, playful, punya karakter visual yang khas. Honda memang sengaja. Tapi desain kuat dan spesifik juga berarti **pasar pembeli bekasnya lebih sempit** dibanding Beat atau Vario.
 
 Kalau suatu hari kamu mau jual motor, Scoopy butuh pembeli yang memang "jatuh cinta" dulu dengan tampilannya. Berbeda dengan Beat atau Vario yang bisa dijual ke hampir siapa saja. Proses jualnya bisa lebih lama, dan harga yang kamu dapat mungkin sedikit di bawah ekspektasi jika butuh menjualnya cepat.
@@ -211,8 +205,6 @@ Kalau suatu hari kamu mau jual motor, Scoopy butuh pembeli yang memang "jatuh ci
 ---
 
 ## Perbandingan Lengkap Scoopy 2026 vs Kompetitor Terdekat
-
-{% include figure image_path="/assets/images/posts/scoopy-2026-smart-black.jpg" alt="Perbandingan motor matic Honda 2026 — Scoopy vs Beat vs Vario 125" caption="Perbandingan tiga motor matic Honda yang paling sering dibandingkan: Scoopy 2026, Beat 2026, dan Vario 125 2026." %}
 
 | Fitur | Honda Scoopy 2026 | Honda Beat 2026 | Honda Vario 125 2026 |
 |-------|:-----------------:|:---------------:|:--------------------:|
