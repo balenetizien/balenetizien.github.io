@@ -12,6 +12,35 @@
 <!-- Adsterra: Social Bar — floating notification-style ad, high CTR -->
 <script src="https://pl30138817.effectivecpmnetwork.com/e5/86/61/e586617f5b97fbcc09ae21c6dc304c83.js"></script>
 
+<!-- Adsterra Banner 300x250 — Posisi: Tengah Artikel (auto-inject setelah H2 ke-2) -->
+<script>
+(function () {
+  function injectMidAd() {
+    var content = document.querySelector('.page__content');
+    if (!content) return;
+    var headings = content.querySelectorAll('h2, h3');
+    if (headings.length < 2) return;
+    var midIdx = Math.floor(headings.length / 2);
+    var target = headings[midIdx];
+    if (!target || !target.parentNode) return;
+    var wrap = document.createElement('div');
+    wrap.style.cssText = 'text-align:center;margin:1.5em auto;overflow:hidden;clear:both;';
+    var s1 = document.createElement('script');
+    s1.text = "atOptions={'key':'bd151f19f5f35b1957c34e758e39e69a','format':'iframe','height':250,'width':300,'params':{}};";
+    var s2 = document.createElement('script');
+    s2.src = 'https://www.highperformanceformat.com/bd151f19f5f35b1957c34e758e39e69a/invoke.js';
+    wrap.appendChild(s1);
+    wrap.appendChild(s2);
+    target.parentNode.insertBefore(wrap, target.nextSibling);
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', injectMidAd);
+  } else {
+    injectMidAd();
+  }
+})();
+</script>
+
 {% if site.search == true or page.layout == "search" %}
   {%- assign search_provider = site.search_provider | default: "lunr" -%}
   {%- case search_provider -%}
