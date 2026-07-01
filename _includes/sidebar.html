@@ -1,6 +1,13 @@
 {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky">
-  {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
+  {% if page.author_profile or layout.author_profile %}
+    {% include author-profile.html %}
+    <!-- Adsterra Banner 300x250 — Posisi: Sidebar bawah profil penulis -->
+    <div style="text-align:center;margin:1em auto;overflow:hidden;">
+      <script>atOptions={'key':'bd151f19f5f35b1957c34e758e39e69a','format':'iframe','height':250,'width':300,'params':{}}</script>
+      <script src="https://www.highperformanceformat.com/bd151f19f5f35b1957c34e758e39e69a/invoke.js"></script>
+    </div>
+  {% endif %}
   {% if page.sidebar %}
     {% for s in page.sidebar %}
       {% if s.image %}
